@@ -2,11 +2,28 @@
 {% block content %}
 
 <div class="card">
+  <!-- Questions settings -->
   <h2>Exam Configuration</h2>
   {% if subjects_exist %}
-  <form method="POST">
-    
-  </form>
+   <form method="POST">
+     <!-- hide form to avoid hacking -->
+     {{ form.hidden_tag() }}
+
+     <!-- subject label -->
+     {{ form.subject.label }}
+     <!-- Input field for subject -->
+     {{ form.subject() }}
+
+     {{ form.question_count.label }}
+     {{ form.question_count() }}
+
+     {{ form.duration_minutes.label }}
+     {{ form.duration_minutes() }}
+   </form>
+  {% else %}
+   <p>No exams are currently available. Please contact your administrator.</p>
+  {% endif %}
+
 </div>
 
 {% endblock %}
