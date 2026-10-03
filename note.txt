@@ -1,1 +1,4 @@
 It is advisable to start your design from the templates before the backend python file.
+In the base.html, flash message should be written before the block content.
+In the immediate html tag, it appears <strong>{{session.get('username')}}</strong> but not immediate html tag, it appears ({{session.get('role')}}) starting with a tuple bracket.
+| means dot like {{questions|length}} is the same as {{questions.length}}

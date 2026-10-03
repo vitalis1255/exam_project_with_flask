@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block title %}CBT Portal Admin Dashboard{% endblock %}
+{% block content %}
+
+ <h2>Administrator CMS Dashboard</h2>
+ <div class="card">
+   <h3>Create User Account</h3>
+   <form method="POST">
+     <!-- Hide form to prevent hacking -->
+     {{ user_form.hidden_tag() }}
+
+     <!--label for username-->
+     {{user_form.username.label}}
+     <!-- input field for username -->
+     {{user_form.username(placeholder="student123")}}
+
+     <!-- for role -->
+     {{ user_form.role.label }}<!-- role label -->
+     {{ user_form.role() }}<!-- input field for role -->
+
+     <button type="submit" name="submit_user" class="btn">Create User</button>
+    </form>
+ </div>
+
+ <div class="card">
+  <h3>Add Examination Question</h3>
+  <form method="POST">
+    <!-- Hide form for subject to avoid kacking -->
+    {{ q_form.subject.label }}<!-- label for subject -->
+    {{ q_form.subject(placeholder="e.g. Mathematics") }}<!-- input field for subject -->
+
+    {{ q_form.question_text.label }}<!--label question_text-->
+    {{ q_form.question_text(rows=3) }}<!--Input for question text-->
+
+    {{ q_form.option_a.label }}
+    {{ q_form.option_a() }}
+
+    {{ q_form.option_b.label }}
+    {{ q_form.option_b() }}
+
+    {{ q_form.option_c.label }}
+    {{ q_form.option_c() }}
+
+    {{ q_form.option_d.label }}
+    {{ q_form.option_d() }}
+
+    {{ q_form.correct_answer.label }}
+    {{ q_form.correct_answer() }}
+
+    <button type="submit" name="submit_question" class="btn">Save Question</button>
+  </form>
+ </div>
+
+ <div class="card">
+  <h3>System Overview</h3>
+  <p><strong>Total Registered Users: </strong>{{ users|length }}</p>
+  <p><strong>Total Questions in Bank: </strong>{{ questions|length }}</p>
+ </div>
+
+{% endblock %}

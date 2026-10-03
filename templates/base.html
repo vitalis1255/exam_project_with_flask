@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}CBT Practice App{% endblock%}</title>
+  <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+  <body>
+    <!-- Logout User -->
+    {% if session.get('username') %}<!-- get the username in session if it exists -->
+    <div class="navbar">
+      <h1>SmartCBT Portal</h1>
+      <div class="contact">
+        <span>User: <strong>{{session.get('username')}}</strong>({{session.get('role')}})</span>
+        <a href="{{url_for('logout')}}" class="logout-btn">Logout</a>
+      </div>
+    </div>
+    {% endif %}
+    <div class="container">
+      <!-- Flash messages -->
+      {% with messages = get_flashed_messages() %}
+        {% if messages %}
+          <ul class="flashes">
+            {% for message in messages %}
+              <li>{{message}}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endwith %}
+
+      {% block content %}
+
+      {% endblock %}
+    </div>
+  </body>
+</html>
