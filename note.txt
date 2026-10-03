@@ -4,3 +4,9 @@ In the immediate html tag, it appears <strong>{{session.get('username')}}</stron
 | means dot like {{questions|length}} is the same as {{questions.length}}
 
 What used in hidden the form will be used in creating label and input fields e.g user_form.hidden_tag(), will be used for label and input fields as user_form.username.label and user_form.username().
+
+A data-duration attribute in HTML is a custom data attribute used to store how long a specific element or action should last.
+
+window.print() is a built-in Javascript method that opens the browser's print dialog box for the current window or document.
+
+rem in css is a 'root em', which is a relative unit of measurement based on the font size of the root <html> element. By default, 1rem equals 16px because most web browsers set the root html font size to 16px 

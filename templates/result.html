@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="card">
+  <h2>Examination Scorecard</h2>
+  <p><strong>Candidate:</strong>{{ result.username}}</p>
+  <p><strong>Subject:</strong>{{ result.subject }}</p>
+  <p><strong>Submitted At:</strong>{{ result.submitted_at }}</p>
+
+  <div style="background: #0f172a; padding: 1.5rem; border-radius: 8px; border: 1px solid #334155;margin: 1.5rem 0; text-align: center;">
+    <h3 style="font-size: 2.5rem; margin: 0; color: #38bdf8;">{{result.score }} / {{result.total }}</h3>
+    <p style="font-size: 1.25rem; margin: 0.5rem 0 0 0;">Percentage: <strong>{{ result.percentage }}%</strong></p>
+  </div>
+
+  <h3>Detailed Question Breakdown</h3>
+  {% for item in result.breakdown %}
+    <div style="background: #0f172a; border: 1px solid #334155; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+      <p><strong>Q: {{ item.question_text }}</strong></p>
+      <p style="margin: 0.25rem 0; color: {{ '#22c55e' if item.is_correct else '#ef4444' }};">
+        Your Answer: <strong>{{item.user_choice or 'None'}}</strong> {% if item.is_correct %}(Correct) {% else %} (Incorrect) {% endif %}
+      </p>
+      {% if not item.is_correct %}
+      <p style="margin: 0.25rem 0; color: #38bdf8;">Correct Answer: <strong>{{ item.correct_answer }}</strong></p>
+      {% endif %}
+    </div>
+  {% endfor %}
+
+  <div style="display: flex;gap: 1rem;margin-top:2rem;">
+    <button onclick="window.print()" class="btn">Print / Save PDF Slip</button>
+    <a href="{{ url_for('exam_config' )}}" class="btn" style="background-color: #334155;text-align: center;text-decoration: none;line-height: 1.5rem;">Take Another Exam</a>
+  </div>
+</div>
+
+{% endblock %}

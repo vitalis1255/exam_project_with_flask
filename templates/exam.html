@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+
+<!-- Environment a user write Exam -->
+<!-- Store JSON safely inside a script tag -->
+ <script type="application/json" id="exam-data">
+  {{exam.questions | tojson | safe }}
+</script>
+<div class="card" id="exam-app" data-duration="{{ exam.   duration_seconds }}">
+  <div class="exam-info">
+    <h3 id="subject-title">Subject: {{ exam.subject }}</h3>
+    <div id="timer-display">
+      Loading Timer...
+    </div>
+  </div>
+
+  <div id="question-container">
+    <p id="q-counter"></p>
+    <h4 id="q-text"></h4>
+    <div id="options-list"></div>
+  </div>
+
+  <div class="btn-group">
+    <button id="prev-btn" class="btn" onclick="changeQuestion(-1)">Previous</button>
+    <button id="next-btn" class="btn" onclick="changeQuestion(1)">Next</button>
+    <button id="submit-btn" class="btn" onclick="submitExam()">Finish & Submit</button>
+  </div>
+</div>
+<script src="{{url_for('static', filename='js/exam.js')}}"></script>
+
+{% endblock %}
