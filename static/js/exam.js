@@ -62,7 +62,25 @@ document.addEventListener("DOMContentLoaded", () => {
 
   window.changeQuestion = function(direction) {
     currentIndex += direction;
-    if (currentIndex < 0)currentIndex = 0;
-    
-  }
-})
+    if (currentIndex < 0) 
+      currentIndex = 0;
+    if (currentIndex >= questions.length)
+      currentIndex = questions.length - 1;
+    renderQuestion();
+  };
+
+  window.submitExam = function() {
+    clearInterval(timerInterval);
+    fetch("/exam/submit", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        answers: userAnswers
+      }),
+    }).then((res) => res.json()).then((data)=>{
+      if (data.redirect) {
+        window.location.href = data.redirect;
+      }
+    });
+  };
+});

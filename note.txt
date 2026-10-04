@@ -18,3 +18,9 @@ JSON.parse() method in Javascript converts a JSON-formatted string into a live J
 textContent in Javascript is used to read or change the plain text inside an HTML element.
 
 The padStart() method in Javascript pads the beginning of a string with another string until it reaches a set length.
+
+The WINDOW object in Javascript represents the browser window containing the DOM document. It is the global object in client-side Javascript, meaning any global variable or function automatically becomes a property of window. It provides data about the browser environment,such as window.innerHeight (window height).
+
+json.dump() is used to convert a python object (like a dictionary or a list) into JSON format and write it directly into a file.
+
+next() function in python retrieves the next item from an iterator by calling its underlying __next__() method. It is commonly used to manually step via iterators, generators, or file objects one item at a time.
