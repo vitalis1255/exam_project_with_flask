@@ -181,3 +181,75 @@ th {
 #subject-title {
   margin: 0;
 }
+
+#timer-display {
+  font-size: 1.25rem;
+  font-weight: bold;
+  background: #0f172a;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  border: 1px solid #38bdf8;
+  color: #38bdf8;
+}
+
+#question-container p {
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+#question-container h4 {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+#options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.btn-group {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+#prev-btn {
+  background-color: #334155;
+  color: white;
+}
+
+#submit-btn {
+  background-color: #ef4444;
+  color: white;
+  display: none;
+}
+
+/* print styles for scorecard */
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+
+  .navbar,
+  .btn,
+  .logout-btn,
+  form {
+    display: none !important;
+  }
+
+  .card {
+    background-color: white !important;
+    border: none !important;
+    box-shadow: none !important;
+    color: black !important;
+  }
+
+  h2,
+  h3,
+  th {
+    color: black !important;
+  }
+}

@@ -9,4 +9,12 @@ A data-duration attribute in HTML is a custom data attribute used to store how l
 
 window.print() is a built-in Javascript method that opens the browser's print dialog box for the current window or document.
 
-rem in css is a 'root em', which is a relative unit of measurement based on the font size of the root <html> element. By default, 1rem equals 16px because most web browsers set the root html font size to 16px 
+rem in css is a 'root em', which is a relative unit of measurement based on the font size of the root <html> element. By default, 1rem equals 16px because most web browsers set the root html font size to 16px.
+
+background-color: white !important; This forces the background color of an HTML element to be solid white with the help of !important.
+
+JSON.parse() method in Javascript converts a JSON-formatted string into a live Javascript object or value.
+
+textContent in Javascript is used to read or change the plain text inside an HTML element.
+
+The padStart() method in Javascript pads the beginning of a string with another string until it reaches a set length.
