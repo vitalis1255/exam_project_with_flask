@@ -1,9 +1,9 @@
 {% extends "base.html" %}
 {% block title %}CBT Portal Admin Dashboard{% endblock %}
-{% block content %}
 
- <h2>Administrator CMS Dashboard</h2>
- <div class="card">
+{% block content %}
+<h2>Administrator CMS Dashboard</h2>
+<div class="card">
    <h3>Create User Account</h3>
    <form method="POST">
      <!-- Hide form to prevent hacking -->
@@ -26,6 +26,8 @@
   <h3>Add Examination Question</h3>
   <form method="POST">
     <!-- Hide form for subject to avoid kacking -->
+    {{ q_form.hidden_tag() }}
+
     {{ q_form.subject.label }}<!-- label for subject -->
     {{ q_form.subject(placeholder="e.g. Mathematics") }}<!-- input field for subject -->
 

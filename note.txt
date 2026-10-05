@@ -24,3 +24,32 @@ The WINDOW object in Javascript represents the browser window containing the DOM
 json.dump() is used to convert a python object (like a dictionary or a list) into JSON format and write it directly into a file.
 
 next() function in python retrieves the next item from an iterator by calling its underlying __next__() method. It is commonly used to manually step via iterators, generators, or file objects one item at a time.
+
+sorted() function returns a new sorted list or tuple or string from any iterable object in ascending or descending order while set() creates an unordered collection of unique elements.
+
+form.subject.choices = [(s, s) for s in subjects]
+
+This line sets the available choices for the subject field in a form.
+
+subjects → a list of subjects, e.g. ["Python", "Flask", "Django"].
+for s in subjects → goes through each subject.
+(s, s) → creates a tuple containing the value and display text.
+form.subject.choices → assigns these tuples as the dropdown options.
+
+For example:
+
+subjects = ["Python", "Flask", "Django"]
+
+produces:
+
+[("Python", "Python"), ("Flask", "Flask"), ("Django", "Django")]
+
+percentage = round((score / total) * 100, 1) if total > 0 else 0 :This line calculates the score as a percentage, rounded to one decimal place, if total is greater than zero. Otherwise, it assigns 0 to percentage.
+
+score / total – calculates the fraction of the total score obtained.
+
+* 100 – converts the fraction to a percentage.
+
+round(..., 1) – rounds the percentage to one decimal place.
+
+if total > 0 else 0 – prevents division by zero when total is zero.

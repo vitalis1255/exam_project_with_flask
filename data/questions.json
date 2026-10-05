@@ -1,0 +1,2803 @@
+[
+    {
+        "id": 1,
+        "subject": "English Language",
+        "question_text": "Choose the word that is nearest in meaning to Eloquent:",
+        "option_a": "Rude",
+        "option_b": "Fluent",
+        "option_c": "Silent",
+        "option_d": "Harsh",
+        "correct_answer": "B"
+    },
+    {
+        "id": 2,
+        "subject": "English Language",
+        "question_text": "Identify the correct grammatical form: Neither of the boys _____ present.",
+        "option_a": "are",
+        "option_b": "were",
+        "option_c": "is",
+        "option_d": "have",
+        "correct_answer": "C"
+    },
+    {
+        "id": 3,
+        "subject": "English Language",
+        "question_text": "What figure of speech is used in the sentence: \"The wind whispered through the trees\"?",
+        "option_a": "Simile",
+        "option_b": "Personification",
+        "option_c": "Metaphor",
+        "option_d": "Hyperbole",
+        "correct_answer": "B"
+    },
+    {
+        "id": 4,
+        "subject": "English Language",
+        "question_text": "Choose the antonym for the word Abundant:",
+        "option_a": "Plentiful",
+        "option_b": "Scarce",
+        "option_c": "Generous",
+        "option_d": "Large",
+        "correct_answer": "B"
+    },
+    {
+        "id": 5,
+        "subject": "English Language",
+        "question_text": "Choose the correct spelling:",
+        "option_a": "Accomodation",
+        "option_b": "Acommodatiton",
+        "option_c": "Accommodation",
+        "option_d": "Acommodation",
+        "correct_answer": "C"
+    },
+    {
+        "id": 6,
+        "subject": "English Language",
+        "question_text": "Complete the common idiom: \"A blessing in _____\"",
+        "option_a": "disguise",
+        "option_b": "secret",
+        "option_c": "heaven",
+        "option_d": "trouble",
+        "correct_answer": "A"
+    },
+    {
+        "id": 7,
+        "subject": "English Language",
+        "question_text": "Which of the following words is a collective noun?",
+        "option_a": "Water",
+        "option_b": "Pride",
+        "option_c": "John",
+        "option_d": "Running",
+        "correct_answer": "B"
+    },
+    {
+        "id": 8,
+        "subject": "English Language",
+        "question_text": "Select the correct passive voice for: \"She ate an apple.\"",
+        "option_a": "An apple is eaten by her.",
+        "option_b": "An apple was eaten by her.",
+        "option_c": "An apple has been eaten.",
+        "option_d": "She was eating an apple.",
+        "correct_answer": "B"
+    },
+    {
+        "id": 9,
+        "subject": "English Language",
+        "question_text": "Identify the adverb in the sentence: \"He walked quickly down the street.\"",
+        "option_a": "He",
+        "option_b": "Walked",
+        "option_c": "Quickly",
+        "option_d": "Street",
+        "correct_answer": "C"
+    },
+    {
+        "id": 10,
+        "subject": "English Language",
+        "question_text": "Choose the correct preposition: She is proficient _____ mathematics.",
+        "option_a": "in",
+        "option_b": "on",
+        "option_c": "at",
+        "option_d": "with",
+        "correct_answer": "A"
+    },
+    {
+        "id": 11,
+        "subject": "Mathematics",
+        "question_text": "Solve for x: 2x + 5 = 15",
+        "option_a": "3",
+        "option_b": "5",
+        "option_c": "7",
+        "option_d": "10",
+        "correct_answer": "B"
+    },
+    {
+        "id": 12,
+        "subject": "Mathematics",
+        "question_text": "What is the area of a circle with radius r = 7cm?(use PI = 22/7)",
+        "option_a": "44 cm\u00b2",
+        "option_b": "154 cm\u00b2",
+        "option_c": "308 cm\u00b2",
+        "option_d": "88 cm\u00b2",
+        "correct_answer": "B"
+    },
+    {
+        "id": 13,
+        "subject": "Mathematics",
+        "question_text": "Find the simple interest on $1,000 at 5% per annum for 2 years.",
+        "option_a": "50$",
+        "option_b": "100$",
+        "option_c": "200$",
+        "option_d": "25$",
+        "correct_answer": "B"
+    },
+    {
+        "id": 14,
+        "subject": "Mathematics",
+        "question_text": "What is the value of 3^3 + 2^2?",
+        "option_a": "13",
+        "option_b": "25",
+        "option_c": "31",
+        "option_d": "35",
+        "correct_answer": "C"
+    },
+    {
+        "id": 15,
+        "subject": "Mathematics",
+        "question_text": "Express 0.045 as a percentage.",
+        "option_a": "0.45%",
+        "option_b": "4.5%",
+        "option_c": "45%",
+        "option_d": "40.5%",
+        "correct_answer": "B"
+    },
+    {
+        "id": 16,
+        "subject": "Mathematics",
+        "question_text": "If the angles of a triangle are in the ratio $1:2:3$, what is the size of the largest angle?",
+        "option_a": "30\u00b0",
+        "option_b": "60\u00b0",
+        "option_c": "90\u00b0",
+        "option_d": "180\u00b0",
+        "correct_answer": "C"
+    },
+    {
+        "id": 17,
+        "subject": "Mathematics",
+        "question_text": "Simplify the fraction:2/3 + 1/4",
+        "option_a": "3/7",
+        "option_b": "11/12",
+        "option_c": "3/12",
+        "option_d": "5/6",
+        "correct_answer": "B"
+    },
+    {
+        "id": 18,
+        "subject": "Mathematics",
+        "question_text": "Find the median of the following dataset: 4, 1, 7, 3, 9",
+        "option_a": "3",
+        "option_b": "4",
+        "option_c": "7",
+        "option_d": "5",
+        "correct_answer": "B"
+    },
+    {
+        "id": 19,
+        "subject": "Mathematics",
+        "question_text": "What is the square root of 144?",
+        "option_a": "10",
+        "option_b": "11",
+        "option_c": "12",
+        "option_d": "14",
+        "correct_answer": "C"
+    },
+    {
+        "id": 20,
+        "subject": "Mathematics",
+        "question_text": "Expand the algebraic expression: (x + 3)(x - 3)",
+        "option_a": "x^2 + 9",
+        "option_b": "x^2 -9",
+        "option_c": "x^2-6x-9",
+        "option_d": "x^2+6x+9",
+        "correct_answer": "B"
+    },
+    {
+        "id": 21,
+        "subject": "Chemistry",
+        "question_text": "What is the chemical symbol for Gold?",
+        "option_a": "Ag",
+        "option_b": "Au",
+        "option_c": "Gd",
+        "option_d": "Pb",
+        "correct_answer": "B"
+    },
+    {
+        "id": 22,
+        "subject": "Chemistry",
+        "question_text": "The pH of a neutral aqueous solution at 25\u00b0C is:",
+        "option_a": "0",
+        "option_b": "7",
+        "option_c": "14",
+        "option_d": "5",
+        "correct_answer": "B"
+    },
+    {
+        "id": 23,
+        "subject": "Chemistry",
+        "question_text": "Which gas is most abundant in Earth's atmosphere?",
+        "option_a": "Oxygen",
+        "option_b": "Carbon Dioxide",
+        "option_c": "Nitrogen",
+        "option_d": "Hydrogen",
+        "correct_answer": "C"
+    },
+    {
+        "id": 24,
+        "subject": "Chemistry",
+        "question_text": "What type of chemical bond involves the complete transfer of electrons?",
+        "option_a": "Covalent bond",
+        "option_b": "Ionic bond",
+        "option_c": "Hydrogen bond",
+        "option_d": "Metallic bond",
+        "correct_answer": "B"
+    },
+    {
+        "id": 25,
+        "subject": "Chemistry",
+        "question_text": "What is the atomic number of Carbon?",
+        "option_a": "4",
+        "option_b": "6",
+        "option_c": "8",
+        "option_d": "12",
+        "correct_answer": "B"
+    },
+    {
+        "id": 26,
+        "subject": "Chemistry",
+        "question_text": "What is the chemical formula for water?",
+        "option_a": "H2O2",
+        "option_b": "HO",
+        "option_c": "H2O",
+        "option_d": "OH2",
+        "correct_answer": "C"
+    },
+    {
+        "id": 27,
+        "subject": "Chemistry",
+        "question_text": "Which of the following is classified as an alkali metal?",
+        "option_a": "Calcium",
+        "option_b": "Sodium",
+        "option_c": "Iron",
+        "option_d": "Aluminium",
+        "correct_answer": "B"
+    },
+    {
+        "id": 28,
+        "subject": "Chemistry",
+        "question_text": "What is the process by which a solid changes directly into a gas called?",
+        "option_a": "Melting",
+        "option_b": "Condensation",
+        "option_c": "Sublimation",
+        "option_d": "Evaporation",
+        "correct_answer": "C"
+    },
+    {
+        "id": 29,
+        "subject": "Chemistry",
+        "question_text": "The standard SI unit for measuring the amount of a substance is:",
+        "option_a": "Gram",
+        "option_b": "Mole",
+        "option_c": "Litre",
+        "option_d": "Kilogram",
+        "correct_answer": "B"
+    },
+    {
+        "id": 30,
+        "subject": "Chemistry",
+        "question_text": "Which subatomic particle carries a negative electrical charge?",
+        "option_a": "Proton",
+        "option_b": "Neutron",
+        "option_c": "Electron",
+        "option_d": "Positron",
+        "correct_answer": "C"
+    },
+
+    {
+        "id": 31,
+        "subject": "Biology",
+        "question_text": "What is known as the powerhouse of the cell?",
+        "option_a": "Nucleus",
+        "option_b": "Mitochondria",
+        "option_c": "Ribosome",
+        "option_d": "Golgi apparatus",
+        "correct_answer": "B"
+    },
+    {
+        "id": 32,
+        "subject": "Biology",
+        "question_text": "Which blood cells are primarily responsible for fighting infections?",
+        "option_a": "Red blood cells",
+        "option_b": "Platelets",
+        "option_c": "White blood cells",
+        "option_d": "Plasma cells",
+        "correct_answer": "C"
+    },
+    {
+        "id": 33,
+        "subject": "Biology",
+        "question_text": "What is the basic structural and functional unit of all living organisms?",
+        "option_a": "Tissue",
+        "option_b": "Organ",
+        "option_c": "Cell",
+        "option_d": "Atom",
+        "correct_answer": "C"
+    },
+    {
+        "id": 34,
+        "subject": "Biology",
+        "question_text": "Which organ in the human body is primarily responsible for filtering waste from the blood?",
+        "option_a": "Liver",
+        "option_b": "Kidney",
+        "option_c": "Heart",
+        "option_d": "Lungs",
+        "correct_answer": "B"
+    },
+    {
+        "id": 35,
+        "subject": "Biology",
+        "question_text": "What gas do green plants absorb from the atmosphere for photosynthesis?",
+        "option_a": "Oxygen",
+        "option_b": "Nitrogen",
+        "option_c": "Carbon dioxide",
+        "option_d": "Hydrogen",
+        "correct_answer": "C"
+    },
+    {
+        "id": 36,
+        "subject": "Biology",
+        "question_text": "What green pigment is essential for plants to capture light energy?",
+        "option_a": "Carotene",
+        "option_b": "Chlorophyll",
+        "option_c": "Xanthophyll",
+        "option_d": "Anthocyanin",
+        "correct_answer": "B"
+    },
+    {
+        "id": 37,
+        "subject": "Biology",
+        "question_text": "What is the largest organ of the human body?",
+        "option_a": "Liver",
+        "option_b": "Brain",
+        "option_c": "Skin",
+        "option_d": "Intestine",
+        "correct_answer": "C"
+    },
+    {
+        "id": 38,
+        "subject": "Biology",
+        "question_text": "Which part of the human brain controls balance, posture, and coordination?",
+        "option_a": "Cerebrum",
+        "option_b": "Cerebellum",
+        "option_c": "Medulla oblongata",
+        "option_d": "Hypothalamus",
+        "correct_answer": "B"
+    },
+    {
+        "id": 39,
+        "subject": "Biology",
+        "question_text": "What is the primary molecule responsible for carrying genetic information in living things?",
+        "option_a": "RNA",
+        "option_b": "Protein",
+        "option_c": "DNA",
+        "option_d": "Lipid",
+        "correct_answer": "C"
+    },
+    {
+        "id": 40,
+        "subject": "Biology",
+        "question_text": "What term describes an animal that feeds exclusively on plants?",
+        "option_a": "Carnivore",
+        "option_b": "Omnivore",
+        "option_c": "Herbivore",
+        "option_d": "Detritivore",
+        "correct_answer": "C"
+    },
+    {
+        "id": 41,
+        "subject": "Biology",
+        "question_text": "Which vitamin is synthesized in human skin upon exposure to sunlight?",
+        "option_a": "Vitamin A",
+        "option_b": "Vitamin C",
+        "option_c": "Vitamin D",
+        "option_d": "Vitamin K",
+        "correct_answer": "C"
+    },
+    {
+        "id": 42,
+        "subject": "Biology",
+        "question_text": "What is the cell division process that produces two genetically identical daughter cells?",
+        "option_a": "Meiosis",
+        "option_b": "Mitosis",
+        "option_c": "Fission",
+        "option_d": "Budding",
+        "correct_answer": "B"
+    },
+    {
+        "id": 43,
+        "subject": "Biology",
+        "question_text": "What is the yellowish liquid component of blood that holds blood cells in suspension called?",
+        "option_a": "Serum",
+        "option_b": "Plasma",
+        "option_c": "Lymph",
+        "option_d": "Platelet",
+        "correct_answer": "B"
+    },
+    {
+        "id": 44,
+        "subject": "Biology",
+        "question_text": "Which human organ produces the hormone insulin to regulate blood sugar levels?",
+        "option_a": "Pancreas",
+        "option_b": "Thyroid",
+        "option_c": "Adrenal gland",
+        "option_d": "Spleen",
+        "correct_answer": "A"
+    },
+    {
+        "id": 45,
+        "subject": "Biology",
+        "question_text": "What structural carbohydrate forms the primary component of plant cell walls?",
+        "option_a": "Starch",
+        "option_b": "Glycogen",
+        "option_c": "Cellulose",
+        "option_d": "Chitin",
+        "correct_answer": "C"
+    },
+    {
+        "id": 46,
+        "subject": "Biology",
+        "question_text": "Which characteristic is unique and definitive of mammals?",
+        "option_a": "Warm-bloodedness",
+        "option_b": "Presence of hair and mammary glands",
+        "option_c": "Laying eggs",
+        "option_d": "Living on land",
+        "correct_answer": "B"
+    },
+    {
+        "id": 47,
+        "subject": "Biology",
+        "question_text": "What type of ecological interaction benefits both participating species?",
+        "option_a": "Parasitism",
+        "option_b": "Commensalism",
+        "option_c": "Mutualism",
+        "option_d": "Predation",
+        "correct_answer": "C"
+    },
+    {
+        "id": 48,
+        "subject": "Biology",
+        "question_text": "What branch of science is dedicated to the study of heredity and variation?",
+        "option_a": "Ecology",
+        "option_b": "Genetics",
+        "option_c": "Taxonomy",
+        "option_d": "Anatomy",
+        "correct_answer": "B"
+    },
+    {
+        "id": 49,
+        "subject": "Biology",
+        "question_text": "Which blood group type is universally recognized as the universal donor?",
+        "option_a": "A positive",
+        "option_b": "AB positive",
+        "option_c": "O negative",
+        "option_d": "B negative",
+        "correct_answer": "C"
+    },
+    {
+        "id": 50,
+        "subject": "Biology",
+        "question_text": "What is the name of the outermost protective layer of human skin?",
+        "option_a": "Dermis",
+        "option_b": "Epidermis",
+        "option_c": "Subcutaneous layer",
+        "option_d": "Follicle",
+        "correct_answer": "B"
+    },
+    {
+        "id": 51,
+        "subject": "Html",
+        "question_text": "What does HTML stand for?",
+        "option_a": "Hyperlinks and Text Markup Language",
+        "option_b": "HyperText Markup Language",
+        "option_c": "Home Tool Markup Language",
+        "option_d": "Hyperlinking Text Management Language",
+        "correct_answer": "B"
+    },
+    {
+        "id": 52,
+        "subject": "Html",
+        "question_text": "Which HTML element is used to define a hyperlink?",
+        "option_a": "&lt;link&gt;",
+        "option_b": "&lt;a&gt;",
+        "option_c": "&lt;href&gt;",
+        "option_d": "&lt;url&gt;",
+        "correct_answer": "B"
+    },
+    {
+        "id": 53,
+        "subject": "Html",
+        "question_text": "What is the correct HTML tag for creating the largest heading?",
+        "option_a": "&lt;head&gt;",
+        "option_b": "&lt;h6&gt;",
+        "option_c": "&lt;h1&gt;",
+        "option_d": "&lt;heading&gt;",
+        "correct_answer": "C"
+    },
+    {
+        "id": 54,
+        "subject": "Html",
+        "question_text": "Which HTML element specifies the title of a web document in the browser tab?",
+        "option_a": "&lt;meta&gt;",
+        "option_b": "&lt;title&gt;",
+        "option_c": "&lt;header&gt;",
+        "option_d": "&lt;document&gt;",
+        "correct_answer": "B"
+    },
+    {
+        "id": 55,
+        "subject": "Html",
+        "question_text": "Which character is used inside a closing tag to denote an end tag in HTML?",
+        "option_a": "*",
+        "option_b": "\\",
+        "option_c": "/",
+        "option_d": "!",
+        "correct_answer": "C"
+    },
+    {
+        "id": 56,
+        "subject": "Html",
+        "question_text": "Which tag is used to insert a single line break in HTML?",
+        "option_a": "&lt;lb&gt;",
+        "option_b": "&lt;break&gt;",
+        "option_c": "&lt;br&gt;",
+        "option_d": "&lt;hr&gt;",
+        "correct_answer": "C"
+    },
+    {
+        "id": 57,
+        "subject": "Html",
+        "question_text": "Which HTML attribute specifies alternative text for an image if it fails to load?",
+        "option_a": "title",
+        "option_b": "src",
+        "option_c": "alt",
+        "option_d": "longdesc",
+        "correct_answer": "C"
+    },
+    {
+        "id": 58,
+        "subject": "Html",
+        "question_text": "Which element builds an unordered bulleted list in HTML?",
+        "option_a": "&lt;ol&gt;",
+        "option_b": "&lt;ul&gt;",
+        "option_c": "&lt;li&gt;",
+        "option_d": "&lt;list&gt;",
+        "correct_answer": "B"
+    },
+    {
+        "id": 59,
+        "subject": "Html",
+        "question_text": "Which tag defines a single row inside an HTML table?",
+        "option_a": "&lt;td&gt;",
+        "option_b": "&lt;th&gt;",
+        "option_c": "&lt;tr&gt;",
+        "option_d": "&lt;table&gt;",
+        "correct_answer": "C"
+    },
+    {
+        "id": 60,
+        "subject": "Html",
+        "question_text": "Which input type attribute value creates a selectable check box?",
+        "option_a": "check",
+        "option_b": "checkbox",
+        "option_c": "tick",
+        "option_d": "button",
+        "correct_answer": "B"
+    },
+    {
+        "id": 61,
+        "subject": "Html",
+        "question_text": "What is the correct HTML element used for embedding video content?",
+        "option_a": "&lt;media&gt;",
+        "option_b": "&lt;movie&gt;",
+        "option_c": "&lt;video&gt;",
+        "option_d": "&lt;playing&gt;",
+        "correct_answer": "C"
+    },
+    {
+        "id": 62,
+        "subject": "Html",
+        "question_text": "Which tag embeds client-side JavaScript scripts in an HTML document?",
+        "option_a": "&lt;script&gt;",
+        "option_b": "&lt;js&gt;",
+        "option_c": "&lt;code&gt;",
+        "option_d": "&lt;javascript&gt;",
+        "correct_answer": "A"
+    },
+    {
+        "id": 63,
+        "subject": "Html",
+        "question_text": "In HTML5, which semantic tag represents the footer section?",
+        "option_a": "&lt;bottom&gt;",
+        "option_b": "&lt;footer&gt;",
+        "option_c": "&lt;section&gt;",
+        "option_d": "&lt;end&gt;",
+        "correct_answer": "B"
+    },
+    {
+        "id": 64,
+        "subject": "Html",
+        "question_text": "Which attribute supplies a unique global identifier to an HTML element?",
+        "option_a": "class",
+        "option_b": "id",
+        "option_c": "name",
+        "option_d": "key",
+        "correct_answer": "B"
+    },
+    {
+        "id": 65,
+        "subject": "Html",
+        "question_text": "How do you configure an anchor link to open in a new browser tab?",
+        "option_a": "target=\"_blank\"",
+        "option_b": "target=\"new\"",
+        "option_c": "window=\"blank\"",
+        "option_d": "open=\"new\"",
+        "correct_answer": "A"
+    },
+    {
+        "id": 66,
+        "subject": "Html",
+        "question_text": "Which inline element tag is commonly used to group or style text inline?",
+        "option_a": "&lt;div&gt;",
+        "option_b": "&lt;span&gt;",
+        "option_c": "&lt;section&gt;",
+        "option_d": "&lt;p&gt;",
+        "correct_answer": "B"
+    },
+    {
+        "id": 67,
+        "subject": "Html",
+        "question_text": "What type of information is housed inside the HTML &lt;head&gt; element?",
+        "option_a": "Visible body content and images",
+        "option_b": "Document metadata, stylesheets, and title",
+        "option_c": "Footer copyright notes",
+        "option_d": "Interactive user forms",
+        "correct_answer": "B"
+    },
+    {
+        "id": 68,
+        "subject": "Html",
+        "question_text": "Which semantic tag defines a block of navigation links?",
+        "option_a": "&lt;navigation&gt;",
+        "option_b": "&lt;nav&gt;",
+        "option_c": "&lt;links&gt;",
+        "option_d": "&lt;menu&gt;",
+        "correct_answer": "B"
+    },
+    {
+        "id": 69,
+        "subject": "Html",
+        "question_text": "Which HTML tag is used to create a dropdown selection menu?",
+        "option_a": "&lt;input type=\"dropdown\"&gt;",
+        "option_b": "&lt;select&gt;",
+        "option_c": "&lt;list&gt;",
+        "option_d": "&lt;option&gt;",
+        "correct_answer": "B"
+    },
+    {
+        "id": 70,
+        "subject": "Html",
+        "question_text": "Which required attribute on the &lt;img&gt; tag specifies the file path of the image?",
+        "option_a": "href",
+        "option_b": "link",
+        "option_c": "src",
+        "option_d": "path",
+        "correct_answer": "C"
+    },
+    {
+        "id": 71,
+        "subject": "Css",
+        "question_text": "What does CSS stand for?",
+        "option_a": "Computer Style Sheets",
+        "option_b": "Creative Style System",
+        "option_c": "Cascading Style Sheets",
+        "option_d": "Colorful Style Sheets",
+        "correct_answer": "C"
+    },
+    {
+        "id": 72,
+        "subject": "Css",
+        "question_text": "Which HTML attribute is used to define inline styles?",
+        "option_a": "class",
+        "option_b": "styles",
+        "option_c": "style",
+        "option_d": "font",
+        "correct_answer": "C"
+    },
+    {
+        "id": 73,
+        "subject": "Css",
+        "question_text": "Which CSS property is used to change the text color of an element?",
+        "option_a": "text-color",
+        "option_b": "color",
+        "option_c": "font-color",
+        "option_d": "text-style",
+        "correct_answer": "B"
+    },
+    {
+        "id": 74,
+        "subject": "Css",
+        "question_text": "Which CSS property controls the text size?",
+        "option_a": "font-size",
+        "option_b": "text-size",
+        "option_c": "text-style",
+        "option_d": "font-style",
+        "correct_answer": "A"
+    },
+    {
+        "id": 75,
+        "subject": "Css",
+        "question_text": "How do you select an element with id \"demo\" in CSS?",
+        "option_a": ".demo",
+        "option_b": "#demo",
+        "option_c": "*demo",
+        "option_d": "demo",
+        "correct_answer": "B"
+    },
+    {
+        "id": 76,
+        "subject": "Css",
+        "question_text": "How do you select elements with class name \"test\" in CSS?",
+        "option_a": "#test",
+        "option_b": ".test",
+        "option_c": "*test",
+        "option_d": "test",
+        "correct_answer": "B"
+    },
+    {
+        "id": 77,
+        "subject": "Css",
+        "question_text": "Which CSS property is used to change the background color?",
+        "option_a": "color",
+        "option_b": "bg-color",
+        "option_c": "background-color",
+        "option_d": "background",
+        "correct_answer": "C"
+    },
+    {
+        "id": 78,
+        "subject": "Css",
+        "question_text": "Which property is used to change the font of an element?",
+        "option_a": "font-family",
+        "option_b": "font-weight",
+        "option_c": "font-style",
+        "option_d": "font-type",
+        "correct_answer": "A"
+    },
+    {
+        "id": 79,
+        "subject": "Css",
+        "question_text": "How do you make each word in a text start with a capital letter in CSS?",
+        "option_a": "text-transform: capitalize;",
+        "option_b": "text-transform: uppercase;",
+        "option_c": "text-style: capitalize;",
+        "option_d": "font-transform: capitalize;",
+        "correct_answer": "A"
+    },
+    {
+        "id": 80,
+        "subject": "Css",
+        "question_text": "Which property is used to create space inside the element border, between the content and border?",
+        "option_a": "margin",
+        "option_b": "spacing",
+        "option_c": "padding",
+        "option_d": "border-spacing",
+        "correct_answer": "C"
+    },
+    {
+        "id": 81,
+        "subject": "Css",
+        "question_text": "Which property is used to create space outside the element border?",
+        "option_a": "spacing",
+        "option_b": "margin",
+        "option_c": "padding",
+        "option_d": "outer-space",
+        "correct_answer": "B"
+    },
+    {
+        "id": 82,
+        "subject": "Css",
+        "question_text": "How do you make a list that lists its items with squares?",
+        "option_a": "list-style-type: square;",
+        "option_b": "list-type: square;",
+        "option_c": "bullet-type: square;",
+        "option_d": "list-style: square-bullet;",
+        "correct_answer": "A"
+    },
+    {
+        "id": 83,
+        "subject": "Css",
+        "question_text": "Which property specifies the stack order of elements (which element appears in front of others)?",
+        "option_a": "z-index",
+        "option_b": "stack-order",
+        "option_c": "layer",
+        "option_d": "element-index",
+        "correct_answer": "A"
+    },
+    {
+        "id": 84,
+        "subject": "Css",
+        "question_text": "Which CSS property is used to make text bold?",
+        "option_a": "font-style: bold;",
+        "option_b": "font-weight: bold;",
+        "option_c": "text-weight: bold;",
+        "option_d": "weight: bold;",
+        "correct_answer": "B"
+    },
+    {
+        "id": 85,
+        "subject": "Css",
+        "question_text": "How do you add a background color for all &lt;h1&gt; elements?",
+        "option_a": "all h1 {background-color: #FFFFFF;}",
+        "option_b": "h1.all {background-color: #FFFFFF;}",
+        "option_c": "h1 {background-color: #FFFFFF;}",
+        "option_d": "body h1 {background-color: #FFFFFF;}",
+        "correct_answer": "C"
+    },
+    {
+        "id": 86,
+        "subject": "Css",
+        "question_text": "Which CSS keyword specifies that a property should inherit its value from its parent element?",
+        "option_a": "default",
+        "option_b": "parent",
+        "option_c": "inherit",
+        "option_d": "same",
+        "correct_answer": "C"
+    },
+    {
+        "id": 87,
+        "subject": "Css",
+        "question_text": "Which property is used to center block-level elements horizontally like a card container?",
+        "option_a": "align: center;",
+        "option_b": "margin: auto;",
+        "option_c": "padding: auto;",
+        "option_d": "text-align: center;",
+        "correct_answer": "B"
+    },
+    {
+        "id": 88,
+        "subject": "Css",
+        "question_text": "What is the default value of the position property in CSS?",
+        "option_a": "relative",
+        "option_b": "fixed",
+        "option_c": "absolute",
+        "option_d": "static",
+        "correct_answer": "D"
+    },
+    {
+        "id": 89,
+        "subject": "Css",
+        "question_text": "Which CSS property makes an element flexible container for laying out items in rows or columns?",
+        "option_a": "display: flex;",
+        "option_b": "layout: flexbox;",
+        "option_c": "container: flex;",
+        "option_d": "box-model: flexible;",
+        "correct_answer": "A"
+    },
+    {
+        "id": 90,
+        "subject": "Css",
+        "question_text": "Which pseudo-class is triggered when a user hovers the mouse pointer over an element?",
+        "option_a": ":active",
+        "option_b": ":hover",
+        "option_c": ":focus",
+        "option_d": ":visited",
+        "correct_answer": "B"
+    },
+    {
+        "id": 91,
+        "subject": "Igbo",
+        "question_text": "Kedu aha mkpụrụedemede ole dị n'asụsụ Igbo (Vawouels)?",
+        "option_a": "Mkpụrụedemede 8",
+        "option_b": "Mkpụrụedemede 6",
+        "option_c": "Mkpụrụedemede 36",
+        "option_d": "Mkpụrụedemede 28",
+        "correct_answer": "A"
+    },
+    {
+        "id": 92,
+        "subject": "Igbo",
+        "question_text": "Gịnị bụ aha nwanne nne gị nke nwoke n'asụsụ Igbo?",
+        "option_a": "Deede / Okenye",
+        "option_b": "Nwanne nna",
+        "option_c": "Ihe",
+        "option_d": "Nne",
+        "correct_answer": "A"
+    },
+    {
+        "id": 93,
+        "subject": "Igbo",
+        "question_text": "Kedu otu esi sị \"Good morning\" n'asụsụ Igbo?",
+        "option_a": "Ndeewo",
+        "option_b": "Ụtụtụ ọma",
+        "option_c": "Ehihie ọma",
+        "option_d": "Kedu",
+        "correct_answer": "B"
+    },
+    {
+        "id": 94,
+        "subject": "Igbo",
+        "question_text": "Kedu ngalaba ole mkpụrụedemede Igbo (Consonants) nwere?",
+        "option_a": "Mkpụrụedemede iri abụọ na asatọ (28)",
+        "option_b": "Mkpụrụedemede iri na ise (15)",
+        "option_c": "Mkpụrụedemede iri atọ na isii (36)",
+        "option_d": "Mkpụrụedemede iri na abụọ (12)",
+        "correct_answer": "A"
+    },
+    {
+        "id": 95,
+        "subject": "Igbo",
+        "question_text": "Kedu ihe bụ nsụgharị okwu \"Water\" n'asụsụ Igbo?",
+        "option_a": "Nri",
+        "option_b": "Mmiri",
+        "option_c": "Anụ",
+        "option_d": "Mmanụ",
+        "correct_answer": "B"
+    },
+    {
+        "id": 96,
+        "subject": "Igbo",
+        "question_text": "Gịnị bụ aha nri omenala a ma ama e ji ji akwadebe n'ala Igbo?",
+        "option_a": "Eba",
+        "option_b": "Ji agwụ / Ọnịicha",
+        "option_c": "Fufu",
+        "option_d": "Abacha",
+        "correct_answer": "D"
+    },
+    {
+        "id": 97,
+        "subject": "Igbo",
+        "question_text": "Gịnị ka \"Nna anyị nọ n'eluigwe\" pụtara n'ekpere?",
+        "option_a": "Our Father who art in heaven",
+        "option_b": "Hail Mary",
+        "option_c": "Glory be to the Father",
+        "option_d": "The Lord is my shepherd",
+        "correct_answer": "A"
+    },
+    {
+        "id": 98,
+        "subject": "Igbo",
+        "question_text": "Kedu aha steeti dị na Naijiria nke ndị Igbo bi na ya karịsịa?",
+        "option_a": "Kano Steeti",
+        "option_b": "Enugwu Steeti",
+        "option_c": "Lagos Steeti",
+        "option_d": "Oyo Steeti",
+        "correct_answer": "B"
+    },
+    {
+        "id": 99,
+        "subject": "Igbo",
+        "question_text": "Kedu otu esi agụ nọmba \"10\" n'asụsụ Igbo?",
+        "option_a": "Asatọ",
+        "option_b": "Iri",
+        "option_c": "Iri na abụọ",
+        "option_d": "Isegfu",
+        "correct_answer": "B"
+    },
+    {
+        "id": 100,
+        "subject": "Igbo",
+        "question_text": "Kedu ihe bụ isi ihe e ji ama onye Igbo n'omenala?",
+        "option_a": "Oji (Kola nut)",
+        "option_b": "Akpa akwa",
+        "option_c": "Mkpisi",
+        "option_d": "Okpu",
+        "correct_answer": "A"
+    },
+    {
+        "id": 101,
+        "subject": "Igbo",
+        "question_text": "Gịnị ka okwu a \"E e\" ma ọ bụ \"Mba\" pụtara?",
+        "option_a": "Yes",
+        "option_b": "No",
+        "option_c": "Maybe",
+        "option_d": "Please",
+        "correct_answer": "B"
+    },
+    {
+        "id": 102,
+        "subject": "Igbo",
+        "question_text": "Kedu aha nwa nwoke ma ọ bụ nwa nwanyị amuru n'ezinaụlọ?",
+        "option_a": "Nwa",
+        "option_b": "Enyi",
+        "option_c": "Onye agbata obi",
+        "option_d": "Ochie",
+        "correct_answer": "A"
+    },
+    {
+        "id": 103,
+        "subject": "Igbo",
+        "question_text": "Kedu otu esi sị \"Thank you\" n'asụsụ Igbo?",
+        "option_a": "Biko",
+        "option_b": "Daalụ",
+        "option_c": "Kedu",
+        "option_d": "Ndo",
+        "correct_answer": "B"
+    },
+    {
+        "id": 104,
+        "subject": "Igbo",
+        "question_text": "Gịnị ka \"Ehihie ọma\" pụtara?",
+        "option_a": "Good morning",
+        "option_b": "Good afternoon",
+        "option_c": "Good evening",
+        "option_d": "Good night",
+        "correct_answer": "B"
+    },
+    {
+        "id": 105,
+        "subject": "Igbo",
+        "question_text": "Kedu aha nnụnụ a ma ama na-agba egwu n'oge mmemme ndị Igbo?",
+        "option_a": "Ugo",
+        "option_b": "Icheoku",
+        "option_c": "Mgbada",
+        "option_d": "Nkịta",
+        "correct_answer": "A"
+    },
+    {
+        "id": 106,
+        "subject": "Igbo",
+        "question_text": "Gịnị ka \"Aha m bụ...\" pụtara n'asụsụ bekee?",
+        "option_a": "My age is...",
+        "option_b": "My name is...",
+        "option_c": "I live in...",
+        "option_d": "I am going to...",
+        "correct_answer": "B"
+    },
+    {
+        "id": 107,
+        "subject": "Igbo",
+        "question_text": "Kedu otu esi sị \"Please\" n'asụsụ Igbo?",
+        "option_a": "Biko",
+        "option_b": "Kedu",
+        "option_c": "Ndeewo",
+        "option_d": "Gawa",
+        "correct_answer": "A"
+    },
+    {
+        "id": 108,
+        "subject": "Igbo",
+        "question_text": "Kedu ebe a na-azụ ma na-ere ahịa n'ala Igbo n'oge ochie?",
+        "option_a": "Ahịa",
+        "option_b": "Ụlọ akwụkwọ",
+        "option_c": "Ọgbọ egwuregwu",
+        "option_d": "Ụlọ ụka",
+        "correct_answer": "A"
+    },
+    {
+        "id": 109,
+        "subject": "Igbo",
+        "question_text": "Kedu afọ ole ka onye nwere puku mmadụ iri n'asụsụ Igbo pụtara? (Okwu nkịtị)",
+        "option_a": "Aha puku",
+        "option_b": "Puku mmadụ",
+        "option_c": "Nnu",
+        "option_d": "Iri",
+        "correct_answer": "C"
+    },
+    {
+        "id": 110,
+        "subject": "Igbo",
+        "question_text": "Gịnị ka nkebiokwu a pụtara: \"Onye aghụghọ, onye aghụghọ gbara ya gburugburu\"?",
+        "option_a": "Deceit catches up with the deceiver",
+        "option_b": "Hard work pays",
+        "option_c": "Unity is strength",
+        "option_d": "Health is wealth",
+        "correct_answer": "A"
+    },
+    {
+        "id": 111,
+        "subject": "Physics",
+        "question_text": "What is the SI unit of force?",
+        "option_a": "Joule",
+        "option_b": "Newton",
+        "option_c": "Watt",
+        "option_d": "Pascal",
+        "correct_answer": "B"
+    },
+    {
+        "id": 112,
+        "subject": "Physics",
+        "question_text": "Which of the following is a scalar quantity?",
+        "option_a": "Velocity",
+        "option_b": "Acceleration",
+        "option_c": "Speed",
+        "option_d": "Displacement",
+        "correct_answer": "C"
+    },
+    {
+        "id": 113,
+        "subject": "Physics",
+        "question_text": "What is the acceleration due to gravity on the surface of the Earth approximately?",
+        "option_a": "4.9 m/s^2",
+        "option_b": "9.8 m/s^2",
+        "option_c": "10.5 m/s^2",
+        "option_d": "3.0 x 10^8 m/s",
+        "correct_answer": "B"
+    },
+    {
+        "id": 114,
+        "subject": "Physics",
+        "question_text": "What law states that pressure applied to an enclosed fluid is transmitted undiminished to every part of the fluid?",
+        "option_a": "Archimedes' principle",
+        "option_b": "Pascal's principle",
+        "option_c": "Boyle's law",
+        "option_d": "Hooke's law",
+        "correct_answer": "B"
+    },
+    {
+        "id": 115,
+        "subject": "Physics",
+        "question_text": "What is the standard unit of electrical resistance?",
+        "option_a": "Volt",
+        "option_b": "Ampere",
+        "option_c": "Ohm",
+        "option_d": "Watt",
+        "correct_answer": "C"
+    },
+    {
+        "id": 116,
+        "subject": "Physics",
+        "question_text": "Which wave type requires a material medium for propagation?",
+        "option_a": "Light waves",
+        "option_b": "Radio waves",
+        "option_c": "Sound waves",
+        "option_d": "X-rays",
+        "correct_answer": "C"
+    },
+    {
+        "id": 117,
+        "subject": "Physics",
+        "question_text": "What energy transformation occurs in a hydroelectric power station?",
+        "option_a": "Chemical to electrical energy",
+        "option_b": "Potential/Kinetic energy to electrical energy",
+        "option_c": "Solar to thermal energy",
+        "option_d": "Nuclear to sound energy",
+        "correct_answer": "B"
+    },
+    {
+        "id": 118,
+        "subject": "Physics",
+        "question_text": "What is the speed of light in a vacuum approximately?",
+        "option_a": "3 x 10^6 m/s",
+        "option_b": "3 x 10^8 m/s",
+        "option_c": "3 x 10^4 m/s",
+        "option_d": "330 m/s",
+        "correct_answer": "B"
+    },
+    {
+        "id": 119,
+        "subject": "Physics",
+        "question_text": "What lens type is thicker at the center than at the edges and converges light rays?",
+        "option_a": "Concave lens",
+        "option_b": "Convex lens",
+        "option_c": "Plano-concave lens",
+        "option_d": "Diverging lens",
+        "correct_answer": "B"
+    },
+    {
+        "id": 120,
+        "subject": "Physics",
+        "question_text": "What does Ohm's law state about current (I), voltage (V), and resistance (R)?",
+        "option_a": "V = I * R",
+        "option_b": "I = V * R",
+        "option_c": "R = I * V",
+        "option_d": "V = I / R",
+        "correct_answer": "A"
+    },
+    {
+        "id": 121,
+        "subject": "Physics",
+        "question_text": "What is the SI unit of power?",
+        "option_a": "Joule",
+        "option_b": "Watt",
+        "option_c": "Newton",
+        "option_d": "Coulomb",
+        "correct_answer": "B"
+    },
+    {
+        "id": 122,
+        "subject": "Physics",
+        "question_text": "What property of a wave is defined as the distance between two successive crests?",
+        "option_a": "Frequency",
+        "option_b": "Amplitude",
+        "option_c": "Wavelength",
+        "option_d": "Period",
+        "correct_answer": "C"
+    },
+    {
+        "id": 123,
+        "subject": "Physics",
+        "question_text": "Which subatomic particles make up the nucleus of an atom?",
+        "option_a": "Protons and electrons",
+        "option_b": "Electrons and neutrons",
+        "option_c": "Protons and neutrons",
+        "option_d": "Quarks and leptons",
+        "correct_answer": "C"
+    },
+    {
+        "id": 124,
+        "subject": "Physics",
+        "question_text": "What device is used to measure electric current in a circuit?",
+        "option_a": "Voltmeter",
+        "option_b": "Ammeter",
+        "option_c": "Galvanometer",
+        "option_d": "Rheostat",
+        "correct_answer": "B"
+    },
+    {
+        "id": 125,
+        "subject": "Physics",
+        "question_text": "What is the phenomenon where white light splits into its component colors through a prism called?",
+        "option_a": "Diffraction",
+        "option_b": "Refraction",
+        "option_c": "Dispersion",
+        "option_d": "Polarization",
+        "correct_answer": "C"
+    },
+    {
+        "id": 126,
+        "subject": "Physics",
+        "question_text": "What type of friction opposes the motion of an object rolling over a surface?",
+        "option_a": "Static friction",
+        "option_b": "Sliding friction",
+        "option_c": "Rolling friction",
+        "option_d": "Fluid friction",
+        "correct_answer": "C"
+    },
+    {
+        "id": 127,
+        "subject": "Physics",
+        "question_text": "What term describes the rate of doing work?",
+        "option_a": "Energy",
+        "option_b": "Momentum",
+        "option_c": "Power",
+        "option_d": "Force",
+        "correct_answer": "C"
+    },
+    {
+        "id": 128,
+        "subject": "Physics",
+        "question_text": "Which thermodynamic process occurs at constant temperature?",
+        "option_a": "Adiabatic",
+        "option_b": "Isochoric",
+        "option_c": "Isothermal",
+        "option_d": "Isobaric",
+        "correct_answer": "C"
+    },
+    {
+        "id": 129,
+        "subject": "Physics",
+        "question_text": "What is the unit of magnetic flux density?",
+        "option_a": "Weber",
+        "option_b": "Tesla",
+        "option_c": "Henry",
+        "option_d": "Farad",
+        "correct_answer": "B"
+    },
+    {
+        "id": 130,
+        "subject": "Physics",
+        "question_text": "What is the heat required to change a unit mass of a substance from solid to liquid at constant temperature called?",
+        "option_a": "Specific heat capacity",
+        "option_b": "Latent heat of fusion",
+        "option_c": "Latent heat of vaporization",
+        "option_d": "Thermal conductivity",
+        "correct_answer": "B"
+    },
+    {
+        "id": 131,
+        "subject": "Further Mathematics",
+        "question_text": "What is the derivative of y = x^3 with respect to x?",
+        "option_a": "3x^2",
+        "option_b": "x^2",
+        "option_c": "3x",
+        "option_d": "x^3",
+        "correct_answer": "A"
+    },
+    {
+        "id": 132,
+        "subject": "Further Mathematics",
+        "question_text": "What is the value of i^2 where i is the imaginary unit?",
+        "option_a": "1",
+        "option_b": "-1",
+        "option_c": "i",
+        "option_d": "-i",
+        "correct_answer": "B"
+    },
+    {
+        "id": 133,
+        "subject": "Further Mathematics",
+        "question_text": "Find the determinant of the 2x2 matrix: [[2, 3], [1, 4]]",
+        "option_a": "5",
+        "option_b": "11",
+        "option_c": "8",
+        "option_d": "10",
+        "correct_answer": "A"
+    },
+    {
+        "id": 134,
+        "subject": "Further Mathematics",
+        "question_text": "What is the sum of the roots of the quadratic equation 2x^2 - 8x + 6 = 0?",
+        "option_a": "-4",
+        "option_b": "4",
+        "option_c": "3",
+        "option_d": "-3",
+        "correct_answer": "B"
+    },
+    {
+        "id": 135,
+        "subject": "Further Mathematics",
+        "question_text": "What is the integral of 2x dx?",
+        "option_a": "x^2 + C",
+        "option_b": "2x^2 + C",
+        "option_c": "x + C",
+        "option_d": "2 + C",
+        "correct_answer": "A"
+    },
+    {
+        "id": 136,
+        "subject": "Further Mathematics",
+        "question_text": "What is the magnitude of the vector v = 3i + 4j?",
+        "option_a": "5",
+        "option_b": "7",
+        "option_c": "12",
+        "option_d": "25",
+        "correct_answer": "A"
+    },
+    {
+        "id": 137,
+        "subject": "Further Mathematics",
+        "question_text": "What is the expansion of (1 + x)^n using Binomial Theorem when n is a positive integer?",
+        "option_a": "n terms",
+        "option_b": "n + 1 terms",
+        "option_c": "Infinite terms",
+        "option_d": "2n terms",
+        "correct_answer": "B"
+    },
+    {
+        "id": 138,
+        "subject": "Further Mathematics",
+        "question_text": "What is the dot product of vectors a = (1, 2) and b = (3, 4)?",
+        "option_a": "5",
+        "option_b": "11",
+        "option_c": "7",
+        "option_d": "10",
+        "correct_answer": "B"
+    },
+    {
+        "id": 139,
+        "subject": "Further Mathematics",
+        "question_text": "What is the conjugate of the complex number 3 + 4i?",
+        "option_a": "-3 - 4i",
+        "option_b": "3 - 4i",
+        "option_c": "-3 + 4i",
+        "option_d": "4 + 3i",
+        "correct_answer": "B"
+    },
+    {
+        "id": 140,
+        "subject": "Further Mathematics",
+        "question_text": "What is the derivative of sin(x) with respect to x?",
+        "option_a": "-cos(x)",
+        "option_b": "cos(x)",
+        "option_c": "-sin(x)",
+        "option_d": "tan(x)",
+        "correct_answer": "B"
+    },
+    {
+        "id": 141,
+        "subject": "Further Mathematics",
+        "question_text": "What is the product of the roots of the quadratic equation 3x^2 - 12x + 9 = 0?",
+        "option_a": "4",
+        "option_b": "3",
+        "option_c": "-3",
+        "option_d": "12",
+        "correct_answer": "B"
+    },
+    {
+        "id": 142,
+        "subject": "Further Mathematics",
+        "question_text": "What is the inverse matrix of a 2x2 identity matrix?",
+        "option_a": "A zero matrix",
+        "option_b": "The identity matrix itself",
+        "option_c": "A negative matrix",
+        "option_d": "Undefined",
+        "correct_answer": "B"
+    },
+    {
+        "id": 143,
+        "subject": "Further Mathematics",
+        "question_text": "What is the value of nPr when n = 5 and r = 2?",
+        "option_a": "10",
+        "option_b": "20",
+        "option_c": "60",
+        "option_d": "120",
+        "correct_answer": "B"
+    },
+    {
+        "id": 144,
+        "subject": "Further Mathematics",
+        "question_text": "What is the value of nCr when n = 5 and r = 2?",
+        "option_a": "10",
+        "option_b": "20",
+        "option_c": "5",
+        "option_d": "15",
+        "correct_answer": "A"
+    },
+    {
+        "id": 145,
+        "subject": "Further Mathematics",
+        "question_text": "What is the integral of e^(2x) dx?",
+        "option_a": "2e^(2x) + C",
+        "option_b": "0.5e^(2x) + C",
+        "option_c": "e^(2x) + C",
+        "option_d": "(1/2)e^x + C",
+        "correct_answer": "B"
+    },
+    {
+        "id": 146,
+        "subject": "Further Mathematics",
+        "question_text": "What type of sequence is 2, 4, 8, 16, ...?",
+        "option_a": "Arithmetic progression",
+        "option_b": "Geometric progression",
+        "option_c": "Harmonic progression",
+        "option_d": "Fibonacci sequence",
+        "correct_answer": "B"
+    },
+    {
+        "id": 147,
+        "subject": "Further Mathematics",
+        "question_text": "What is the common ratio of the geometric progression 3, 6, 12, 24, ...?",
+        "option_a": "3",
+        "option_b": "2",
+        "option_c": "4",
+        "option_d": "6",
+        "correct_answer": "B"
+    },
+    {
+        "id": 148,
+        "subject": "Further Mathematics",
+        "question_text": "What is the slope (gradient) of the line represented by equation 3x - 4y = 12?",
+        "option_a": "3/4",
+        "option_b": "-3/4",
+        "option_c": "4/3",
+        "option_d": "-4/3",
+        "correct_answer": "A"
+    },
+    {
+        "id": 149,
+        "subject": "Further Mathematics",
+        "question_text": "What is the second derivative of y = x^4 with respect to x?",
+        "option_a": "4x^3",
+        "option_b": "12x^2",
+        "option_c": "24x",
+        "option_d": "x^2",
+        "correct_answer": "B"
+    },
+    {
+        "id": 150,
+        "subject": "Further Mathematics",
+        "question_text": "If two vectors are perpendicular, what is their dot product?",
+        "option_a": "1",
+        "option_b": "-1",
+        "option_c": "0",
+        "option_d": "Undefined",
+        "correct_answer": "C"
+    },
+    {
+        "id": 151,
+        "subject": "CRS",
+        "question_text": "Who built the ark according to the Book of Genesis?",
+        "option_a": "Abraham",
+        "option_b": "Noah",
+        "option_c": "Moses",
+        "option_d": "Isaac",
+        "correct_answer": "B"
+    },
+    {
+        "id": 152,
+        "subject": "CRS",
+        "question_text": "In which town was Jesus born according to the Gospels?",
+        "option_a": "Nazareth",
+        "option_b": "Jerusalem",
+        "option_c": "Bethlehem",
+        "option_d": "Capernaum",
+        "correct_answer": "C"
+    },
+    {
+        "id": 153,
+        "subject": "CRS",
+        "question_text": "Who was thrown into the den of lions by order of King Darius?",
+        "option_a": "Daniel",
+        "option_b": "Shadrach",
+        "option_c": "Joseph",
+        "option_d": "Elijah",
+        "correct_answer": "A"
+    },
+    {
+        "id": 154,
+        "subject": "CRS",
+        "question_text": "How many primary disciples did Jesus choose to follow Him closely?",
+        "option_a": "7",
+        "option_b": "10",
+        "option_c": "12",
+        "option_d": "40",
+        "correct_answer": "C"
+    },
+    {
+        "id": 155,
+        "subject": "CRS",
+        "question_text": "Who baptized Jesus in the River Jordan?",
+        "option_a": "Simon Peter",
+        "option_b": "John the Baptist",
+        "option_c": "Paul",
+        "option_d": "Andrew",
+        "correct_answer": "B"
+    },
+    {
+        "id": 156,
+        "subject": "CRS",
+        "question_text": "What was the first plague that God sent upon Egypt through Moses?",
+        "option_a": "Frogs",
+        "option_b": "Locusts",
+        "option_c": "Water turned to blood",
+        "option_d": "Darkness",
+        "correct_answer": "C"
+    },
+    {
+        "id": 157,
+        "subject": "CRS",
+        "question_text": "Which disciple betrayed Jesus for thirty pieces of silver?",
+        "option_a": "Thomas",
+        "option_b": "Judas Iscariot",
+        "option_c": "Philip",
+        "option_d": "James",
+        "correct_answer": "B"
+    },
+    {
+        "id": 158,
+        "subject": "CRS",
+        "question_text": "Which prophet famously confronted the prophets of Baal on Mount Carmel?",
+        "option_a": "Elisha",
+        "option_b": "Isaiah",
+        "option_c": "Elijah",
+        "option_d": "Jeremiah",
+        "correct_answer": "C"
+    },
+    {
+        "id": 159,
+        "subject": "CRS",
+        "question_text": "What is widely recognized as the shortest verse in the English Bible?",
+        "option_a": "Jesus wept.",
+        "option_b": "God is love.",
+        "option_c": "Pray without ceasing.",
+        "option_d": "Rejoice evermore.",
+        "correct_answer": "A"
+    },
+    {
+        "id": 160,
+        "subject": "CRS",
+        "question_text": "On which mountain did Moses receive the Ten Commandments from God?",
+        "option_a": "Mount Ararat",
+        "option_b": "Mount Sinai",
+        "option_c": "Mount Carmel",
+        "option_d": "Mount Olive",
+        "correct_answer": "B"
+    },
+    {
+        "id": 161,
+        "subject": "Basic Sciences",
+        "question_text": "What is the chemical formula for pure water?",
+        "option_a": "CO2",
+        "option_b": "H2O",
+        "option_c": "NaCl",
+        "option_d": "O2",
+        "correct_answer": "B"
+    },
+    {
+        "id": 162,
+        "subject": "Basic Sciences",
+        "question_text": "Which gas makes up the largest percentage of Earth's atmosphere?",
+        "option_a": "Oxygen",
+        "option_b": "Carbon dioxide",
+        "option_c": "Nitrogen",
+        "option_d": "Hydrogen",
+        "correct_answer": "C"
+    },
+    {
+        "id": 163,
+        "subject": "Basic Sciences",
+        "question_text": "Which organelle in plant cells is responsible for carrying out photosynthesis?",
+        "option_a": "Mitochondria",
+        "option_b": "Ribosome",
+        "option_c": "Chloroplast",
+        "option_d": "Nucleus",
+        "correct_answer": "C"
+    },
+    {
+        "id": 164,
+        "subject": "Basic Sciences",
+        "question_text": "Which cell structure is known as the powerhouse of the cell?",
+        "option_a": "Mitochondria",
+        "option_b": "Cell wall",
+        "option_c": "Vacuole",
+        "option_d": "Golgi apparatus",
+        "correct_answer": "A"
+    },
+    {
+        "id": 165,
+        "subject": "Basic Sciences",
+        "question_text": "What is the hardest natural mineral or substance found on Earth?",
+        "option_a": "Gold",
+        "option_b": "Iron",
+        "option_c": "Quartz",
+        "option_d": "Diamond",
+        "correct_answer": "D"
+    },
+    {
+        "id": 166,
+        "subject": "Basic Sciences",
+        "question_text": "At what temperature does pure water freeze under normal atmospheric pressure?",
+        "option_a": "0°C",
+        "option_b": "32°C",
+        "option_c": "100°C",
+        "option_d": "-10°C",
+        "correct_answer": "A"
+    },
+    {
+        "id": 167,
+        "subject": "Basic Sciences",
+        "question_text": "Which blood cells are primarily responsible for transporting oxygen throughout the human body?",
+        "option_a": "White blood cells",
+        "option_b": "Red blood cells",
+        "option_c": "Platelets",
+        "option_d": "Plasma cells",
+        "correct_answer": "B"
+    },
+    {
+        "id": 168,
+        "subject": "Basic Sciences",
+        "question_text": "What is the primary center of our solar system around which all planets orbit?",
+        "option_a": "Earth",
+        "option_b": "The Moon",
+        "option_c": "The Sun",
+        "option_d": "Jupiter",
+        "correct_answer": "C"
+    },
+    {
+        "id": 169,
+        "subject": "Basic Sciences",
+        "question_text": "What type of energy is stored inside food items or chemical batteries?",
+        "option_a": "Kinetic energy",
+        "option_b": "Chemical energy",
+        "option_c": "Thermal energy",
+        "option_d": "Nuclear energy",
+        "correct_answer": "B"
+    },
+    {
+        "id": 170,
+        "subject": "Basic Sciences",
+        "question_text": "Which major internal organ in the human body filters waste products from the blood to produce urine?",
+        "option_a": "Heart",
+        "option_b": "Liver",
+        "option_c": "Kidney",
+        "option_d": "Lungs",
+        "correct_answer": "C"
+    },
+    {
+        "id": 171,
+        "subject": "Digital Technology",
+        "question_text": "What does the acronym CPU stand for in computer hardware?",
+        "option_a": "Central Processing Unit",
+        "option_b": "Computer Personal Utility",
+        "option_c": "Central Program User",
+        "option_d": "Control Processing Utility",
+        "correct_answer": "A"
+    },
+    {
+        "id": 172,
+        "subject": "Digital Technology",
+        "question_text": "Which of the following is classified as system software?",
+        "option_a": "Microsoft Word",
+        "option_b": "Operating System",
+        "option_c": "Web Browser",
+        "option_d": "Photoshop",
+        "correct_answer": "B"
+    },
+    {
+        "id": 173,
+        "subject": "Digital Technology",
+        "question_text": "What does the abbreviation URL stand for on the web?",
+        "option_a": "Uniform Resource Locator",
+        "option_b": "Universal Retrieval Link",
+        "option_c": "Unified Radio Language",
+        "option_d": "Unencrypted Routing Line",
+        "correct_answer": "A"
+    },
+    {
+        "id": 174,
+        "subject": "Digital Technology",
+        "question_text": "Which computer peripheral is primarily used as an input device to type text?",
+        "option_a": "Monitor",
+        "option_b": "Printer",
+        "option_c": "Keyboard",
+        "option_d": "Speaker",
+        "correct_answer": "C"
+    },
+    {
+        "id": 175,
+        "subject": "Digital Technology",
+        "question_text": "What is the standard keyboard shortcut used to copy highlighted text in most computer operating systems?",
+        "option_a": "Ctrl + C",
+        "option_b": "Ctrl + V",
+        "option_c": "Ctrl + X",
+        "option_d": "Ctrl + P",
+        "correct_answer": "A"
+    },
+    {
+        "id": 176,
+        "subject": "Digital Technology",
+        "question_text": "What type of computer network spans a large geographical area, such as connecting offices across different countries?",
+        "option_a": "LAN",
+        "option_b": "WAN",
+        "option_c": "PAN",
+        "option_d": "CAN",
+        "correct_answer": "B"
+    },
+    {
+        "id": 177,
+        "subject": "Digital Technology",
+        "question_text": "Which of the following is a popular web-based email service provider?",
+        "option_a": "Gmail",
+        "option_b": "HTML",
+        "option_c": "HTTP",
+        "option_d": "Windows",
+        "correct_answer": "A"
+    },
+    {
+        "id": 178,
+        "subject": "Digital Technology",
+        "question_text": "What does RAM stand for in computer memory terminology?",
+        "option_a": "Read Access Module",
+        "option_b": "Random Access Memory",
+        "option_c": "Rapid Application Machine",
+        "option_d": "Remote Access Media",
+        "correct_answer": "B"
+    },
+    {
+        "id": 179,
+        "subject": "Digital Technology",
+        "question_text": "Which standard file extension is typically used to save a web page document?",
+        "option_a": ".txt",
+        "option_b": ".html",
+        "option_c": ".jpg",
+        "option_d": ".mp3",
+        "correct_answer": "B"
+    },
+    {
+        "id": 180,
+        "subject": "Digital Technology",
+        "question_text": "The term 'malware' is an abbreviation for which of the following?",
+        "option_a": "Manual hardware",
+        "option_b": "Malicious software",
+        "option_c": "Multipurpose gateway",
+        "option_d": "Machine network",
+        "correct_answer": "B"
+    },
+    {
+        "id": 181,
+        "subject": "Chemistry",
+        "question_text": "What is the chemical symbol for gold?",
+        "option_a": "Ag",
+        "option_b": "Au",
+        "option_c": "Gd",
+        "option_d": "Go",
+        "correct_answer": "B"
+    },
+    {
+        "id": 182,
+        "subject": "Chemistry",
+        "question_text": "What is the pH value of a pure, neutral water solution at 25°C?",
+        "option_a": "0",
+        "option_b": "5",
+        "option_c": "7",
+        "option_d": "14",
+        "correct_answer": "C"
+    },
+    {
+        "id": 183,
+        "subject": "Chemistry",
+        "question_text": "Which subatomic particle carries a negative electrical charge?",
+        "option_a": "Proton",
+        "option_b": "Neutron",
+        "option_c": "Electron",
+        "option_d": "Positron",
+        "correct_answer": "C"
+    },
+    {
+        "id": 184,
+        "subject": "Chemistry",
+        "question_text": "What is the atomic number of carbon?",
+        "option_a": "4",
+        "option_b": "6",
+        "option_c": "8",
+        "option_d": "12",
+        "correct_answer": "B"
+    },
+    {
+        "id": 185,
+        "subject": "Chemistry",
+        "question_text": "Which gas is typically produced when an acid reacts with a reactive metal like zinc?",
+        "option_a": "Oxygen",
+        "option_b": "Hydrogen",
+        "option_c": "Nitrogen",
+        "option_d": "Carbon dioxide",
+        "correct_answer": "B"
+    },
+    {
+        "id": 186,
+        "subject": "Chemistry",
+        "question_text": "What is the chemical formula for common table salt?",
+        "option_a": "KCl",
+        "option_b": "NaOH",
+        "option_c": "NaCl",
+        "option_d": "HCl",
+        "correct_answer": "C"
+    },
+    {
+        "id": 187,
+        "subject": "Chemistry",
+        "question_text": "Which metallic element is liquid at standard room temperature and pressure?",
+        "option_a": "Mercury",
+        "option_b": "Gallium",
+        "option_c": "Bromine",
+        "option_d": "Sodium",
+        "correct_answer": "A"
+    },
+    {
+        "id": 188,
+        "subject": "Chemistry",
+        "question_text": "What type of chemical bond involves the sharing of electron pairs between atoms?",
+        "option_a": "Ionic bond",
+        "option_b": "Covalent bond",
+        "option_c": "Metallic bond",
+        "option_d": "Hydrogen bond",
+        "correct_answer": "B"
+    },
+    {
+        "id": 189,
+        "subject": "Chemistry",
+        "question_text": "Which law states that mass is neither created nor destroyed during a chemical reaction?",
+        "option_a": "Law of Definite Proportions",
+        "option_b": "Law of Conservation of Mass",
+        "option_c": "Avogadro's Law",
+        "option_d": "Boyle's Law",
+        "correct_answer": "B"
+    },
+    {
+        "id": 190,
+        "subject": "Chemistry",
+        "question_text": "What is the main chemical component of natural gas?",
+        "option_a": "Propane",
+        "option_b": "Ethane",
+        "option_c": "Methane",
+        "option_d": "Butane",
+        "correct_answer": "C"
+    },
+    {
+        "id": 191,
+        "subject": "Chemistry",
+        "question_text": "Which group on the periodic table contains the noble gases?",
+        "option_a": "Group 1",
+        "option_b": "Group 7",
+        "option_c": "Group 17",
+        "option_d": "Group 18",
+        "correct_answer": "D"
+    },
+    {
+        "id": 192,
+        "subject": "Chemistry",
+        "question_text": "What is the term for a solution that resists changes in pH when small amounts of acid or base are added?",
+        "option_a": "Saturated solution",
+        "option_b": "Buffer solution",
+        "option_c": "Standard solution",
+        "option_d": "Supersaturated solution",
+        "correct_answer": "B"
+    },
+    {
+        "id": 193,
+        "subject": "Chemistry",
+        "question_text": "What is the approximate molar mass of water (H2O)?",
+        "option_a": "12 g/mol",
+        "option_b": "16 g/mol",
+        "option_c": "18 g/mol",
+        "option_d": "20 g/mol",
+        "correct_answer": "C"
+    },
+    {
+        "id": 194,
+        "subject": "Chemistry",
+        "question_text": "What is the physical process where a solid turns directly into a gas without becoming a liquid?",
+        "option_a": "Evaporation",
+        "option_b": "Sublimation",
+        "option_c": "Condensation",
+        "option_d": "Melting",
+        "correct_answer": "B"
+    },
+    {
+        "id": 195,
+        "subject": "Chemistry",
+        "question_text": "What name is given to positively charged ions?",
+        "option_a": "Cation",
+        "option_b": "Anion",
+        "option_c": "Isotope",
+        "option_d": "Radical",
+        "correct_answer": "A"
+    },
+    {
+        "id": 196,
+        "subject": "Chemistry",
+        "question_text": "What is the chemical formula for sulfuric acid?",
+        "option_a": "HCl",
+        "option_b": "HNO3",
+        "option_c": "H2SO4",
+        "option_d": "H3PO4",
+        "correct_answer": "C"
+    },
+    {
+        "id": 197,
+        "subject": "Chemistry",
+        "question_text": "Which important industrial metal is primarily extracted from bauxite ore?",
+        "option_a": "Iron",
+        "option_b": "Copper",
+        "option_c": "Aluminium",
+        "option_d": "Zinc",
+        "correct_answer": "C"
+    },
+    {
+        "id": 198,
+        "subject": "Chemistry",
+        "question_text": "What is the oxidation state of sulfur in sulfur dioxide (SO2)?",
+        "option_a": "+2",
+        "option_b": "+4",
+        "option_c": "+6",
+        "option_d": "-2",
+        "correct_answer": "B"
+    },
+    {
+        "id": 199,
+        "subject": "Chemistry",
+        "question_text": "What term describes a chemical reaction that absorbs heat energy from its surroundings?",
+        "option_a": "Exothermic",
+        "option_b": "Endothermic",
+        "option_c": "Catalytic",
+        "option_d": "Neutralization",
+        "correct_answer": "B"
+    },
+    {
+        "id": 200,
+        "subject": "Chemistry",
+        "question_text": "Which organic functional group characterizes alcohols?",
+        "option_a": "-COOH",
+        "option_b": "-CHO",
+        "option_c": "-OH",
+        "option_d": "-NH2",
+        "correct_answer": "C"
+    },
+    {
+        "id": 201,
+        "subject": "Chemistry",
+        "question_text": "What is the hardest known natural allotrope of carbon?",
+        "option_a": "Graphite",
+        "option_b": "Graphene",
+        "option_c": "Diamond",
+        "option_d": "Charcoal",
+        "correct_answer": "C"
+    },
+    {
+        "id": 202,
+        "subject": "Chemistry",
+        "question_text": "What volume does one mole of an ideal gas occupy at standard temperature and pressure (STP)?",
+        "option_a": "11.2 liters",
+        "option_b": "22.4 liters",
+        "option_c": "44.8 liters",
+        "option_d": "1.0 liter",
+        "correct_answer": "B"
+    },
+    {
+        "id": 203,
+        "subject": "Chemistry",
+        "question_text": "What is the official IUPAC name for common acetic acid found in vinegar?",
+        "option_a": "Methanoic acid",
+        "option_b": "Ethanoic acid",
+        "option_c": "Propanoic acid",
+        "option_d": "Butanoic acid",
+        "correct_answer": "B"
+    },
+    {
+        "id": 204,
+        "subject": "Chemistry",
+        "question_text": "Which metallic element is represented by the chemical symbol 'K'?",
+        "option_a": "Krypton",
+        "option_b": "Calcium",
+        "option_c": "Potassium",
+        "option_d": "Sodium",
+        "correct_answer": "C"
+    },
+    {
+        "id": 205,
+        "subject": "Chemistry",
+        "question_text": "What type of chemical reaction involves both reduction and oxidation processes occurring simultaneously?",
+        "option_a": "Acid-base reaction",
+        "option_b": "Redox reaction",
+        "option_c": "Precipitation reaction",
+        "option_d": "Combustion reaction only",
+        "correct_answer": "B"
+    },
+    {
+        "id": 206,
+        "subject": "Chemistry",
+        "question_text": "Which subatomic particle has a mass roughly equal to a proton but carries no electrical charge?",
+        "option_a": "Electron",
+        "option_b": "Neutron",
+        "option_c": "Positron",
+        "option_d": "Alpha particle",
+        "correct_answer": "B"
+    },
+    {
+        "id": 207,
+        "subject": "Chemistry",
+        "question_text": "What is the common chemical name for sodium bicarbonate?",
+        "option_a": "Washing soda",
+        "option_b": "Baking soda",
+        "option_c": "Caustic soda",
+        "option_d": "Bleaching powder",
+        "correct_answer": "B"
+    },
+    {
+        "id": 208,
+        "subject": "Chemistry",
+        "question_text": "What term is used for different structural forms of the same element in the same physical state?",
+        "option_a": "Isotopes",
+        "option_b": "Isomers",
+        "option_c": "Allotropes",
+        "option_d": "Homologs",
+        "correct_answer": "C"
+    },
+    {
+        "id": 209,
+        "subject": "Chemistry",
+        "question_text": "What color does red litmus paper change into when dipped in a strong alkaline solution?",
+        "option_a": "Blue",
+        "option_b": "Green",
+        "option_c": "Yellow",
+        "option_d": "No change",
+        "correct_answer": "A"
+    },
+    {
+        "id": 210,
+        "subject": "Chemistry",
+        "question_text": "Which halogen is a dark violet-black solid that easily sublimes into a purple gas?",
+        "option_a": "Chlorine",
+        "option_b": "Fluorine",
+        "option_c": "Bromine",
+        "option_d": "Iodine",
+        "correct_answer": "D"
+    },
+    {
+        "id": 211,
+        "subject": "Chemistry",
+        "question_text": "What is the primary mineral ore of iron?",
+        "option_a": "Hematite",
+        "option_b": "Bauxite",
+        "option_c": "Galena",
+        "option_d": "Cinnabar",
+        "correct_answer": "A"
+    },
+    {
+        "id": 212,
+        "subject": "Chemistry",
+        "question_text": "What concentration measure is defined as the number of moles of solute per liter of solution?",
+        "option_a": "Molality",
+        "option_b": "Molarity",
+        "option_c": "Normality",
+        "option_d": "Mole fraction",
+        "correct_answer": "B"
+    },
+    {
+        "id": 213,
+        "subject": "Chemistry",
+        "question_text": "Which gas law states that the volume of a given mass of gas is inversely proportional to pressure at constant temperature?",
+        "option_a": "Charles's law",
+        "option_b": "Boyle's law",
+        "option_c": "Gay-Lussac's law",
+        "option_d": "Dalton's law",
+        "correct_answer": "B"
+    },
+    {
+        "id": 214,
+        "subject": "Chemistry",
+        "question_text": "What is the chemical formula for ammonia?",
+        "option_a": "NH3",
+        "option_b": "NH4+",
+        "option_c": "NO2",
+        "option_d": "N2O",
+        "correct_answer": "A"
+    },
+    {
+        "id": 215,
+        "subject": "Chemistry",
+        "question_text": "Which standard laboratory chemical test is used to identify the presence of starch?",
+        "option_a": "Fehling's test",
+        "option_b": "Biuret test",
+        "option_c": "Iodine test",
+        "option_d": "Litmus test",
+        "correct_answer": "C"
+    },
+    {
+        "id": 216,
+        "subject": "Chemistry",
+        "question_text": "What type of biological polymers are made of repeating amino acid chains?",
+        "option_a": "Carbohydrates",
+        "option_b": "Lipids",
+        "option_c": "Proteins",
+        "option_d": "Nucleic acids",
+        "correct_answer": "C"
+    },
+    {
+        "id": 217,
+        "subject": "Chemistry",
+        "question_text": "Which transition metal is alloyed with copper to produce brass?",
+        "option_a": "Tin",
+        "option_b": "Zinc",
+        "option_c": "Nickel",
+        "option_d": "Iron",
+        "correct_answer": "B"
+    },
+    {
+        "id": 218,
+        "subject": "Chemistry",
+        "question_text": "What is the general chemical formula for saturated open-chain alkanes?",
+        "option_a": "CnH2n",
+        "option_b": "CnH2n-2",
+        "option_c": "CnH2n+2",
+        "option_d": "CnHn",
+        "correct_answer": "C"
+    },
+    {
+        "id": 219,
+        "subject": "Chemistry",
+        "question_text": "What is the common chemical formula for rust on iron?",
+        "option_a": "FeO",
+        "option_b": "Fe3O4",
+        "option_c": "Fe2O3 · nH2O",
+        "option_d": "FeS",
+        "correct_answer": "C"
+    },
+    {
+        "id": 220,
+        "subject": "Chemistry",
+        "question_text": "Which radioactive carbon isotope is widely used in archaeological carbon dating?",
+        "option_a": "Carbon-12",
+        "option_b": "Carbon-13",
+        "option_c": "Carbon-14",
+        "option_d": "Carbon-11",
+        "correct_answer": "C"
+    },
+    {
+        "id": 221,
+        "subject": "Chemistry",
+        "question_text": "What industrial separation process separates crude oil into fractions based on differences in boiling points?",
+        "option_a": "Cracking",
+        "option_b": "Fractional distillation",
+        "option_c": "Filteration",
+        "option_d": "Crystallization",
+        "correct_answer": "B"
+    },
+    {
+        "id": 222,
+        "subject": "Chemistry",
+        "question_text": "Which element has the highest electronegativity value on the Pauling scale?",
+        "option_a": "Oxygen",
+        "option_b": "Chlorine",
+        "option_c": "Fluorine",
+        "option_d": "Nitrogen",
+        "correct_answer": "C"
+    },
+    {
+        "id": 223,
+        "subject": "Chemistry",
+        "question_text": "What term describes a chemical bond created by the strong electrostatic attraction between oppositely charged ions?",
+        "option_a": "Covalent bond",
+        "option_b": "Ionic bond",
+        "option_c": "Hydrogen bond",
+        "option_d": "Polar bond",
+        "correct_answer": "B"
+    },
+    {
+        "id": 224,
+        "subject": "Chemistry",
+        "question_text": "What are the primary products of the complete combustion of any standard hydrocarbon?",
+        "option_a": "Carbon monoxide and hydrogen",
+        "option_b": "Carbon dioxide and water",
+        "option_c": "Carbon and oxygen gas",
+        "option_d": "Methane and steam",
+        "correct_answer": "B"
+    },
+    {
+        "id": 225,
+        "subject": "Chemistry",
+        "question_text": "Which element is frequently added to public water supplies in low concentrations to help prevent tooth decay?",
+        "option_a": "Chlorine",
+        "option_b": "Fluorine",
+        "option_c": "Iodine",
+        "option_d": "Sodium",
+        "correct_answer": "B"
+    },
+    {
+        "id": 226,
+        "subject": "Chemistry",
+        "question_text": "What noble gas is commonly used alongside mercury vapor inside fluorescent lighting tubes?",
+        "option_a": "Helium",
+        "option_b": "Neon",
+        "option_c": "Argon",
+        "option_d": "Xenon",
+        "correct_answer": "C"
+    },
+    {
+        "id": 227,
+        "subject": "Chemistry",
+        "question_text": "What is the term for the alkaline hydrolysis of fats or oils used in soap making?",
+        "option_a": "Esterification",
+        "option_b": "Saponification",
+        "option_c": "Polymerization",
+        "option_d": "Fermentation",
+        "correct_answer": "B"
+    },
+    {
+        "id": 228,
+        "subject": "Chemistry",
+        "question_text": "What name is given to atoms of the same element that have the same atomic number but different mass numbers due to varying neutrons?",
+        "option_a": "Isomers",
+        "option_b": "Isotopes",
+        "option_c": "Allotropes",
+        "option_d": "Isobars",
+        "correct_answer": "B"
+    },
+    {
+        "id": 229,
+        "subject": "Chemistry",
+        "question_text": "Which chemical instrument is used to measure the precise volume of liquid delivered in a titration?",
+        "option_a": "Pipette",
+        "option_b": "Burette",
+        "option_c": "Beaker",
+        "option_d": "Conical flask",
+        "correct_answer": "B"
+    },
+    {
+        "id": 230,
+        "subject": "Chemistry",
+        "question_text": "What is the chemical name of the primary ore from which mercury is extracted?",
+        "option_a": "Galena",
+        "option_b": "Cinnabar",
+        "option_c": "Pyrite",
+        "option_d": "Bauxite",
+        "correct_answer": "B"
+    },
+    {
+        "id": 231,
+        "subject": "Mathematics",
+        "question_text": "What is the value of 15% of 200?",
+        "option_a": "20",
+        "option_b": "25",
+        "option_c": "30",
+        "option_d": "35",
+        "correct_answer": "C"
+    },
+    {
+        "id": 232,
+        "subject": "Mathematics",
+        "question_text": "What is the next prime number after 7?",
+        "option_a": "9",
+        "option_b": "10",
+        "option_c": "11",
+        "option_d": "13",
+        "correct_answer": "C"
+    },
+    {
+        "id": 233,
+        "subject": "Mathematics",
+        "question_text": "Solve for x: 3x - 5 = 10",
+        "option_a": "3",
+        "option_b": "5",
+        "option_c": "6",
+        "option_d": "15",
+        "correct_answer": "B"
+    },
+    {
+        "id": 234,
+        "subject": "Mathematics",
+        "question_text": "What is the square root of 144?",
+        "option_a": "10",
+        "option_b": "11",
+        "option_c": "12",
+        "option_d": "14",
+        "correct_answer": "C"
+    },
+    {
+        "id": 235,
+        "subject": "Mathematics",
+        "question_text": "What is the least common multiple (LCM) of 4 and 6?",
+        "option_a": "12",
+        "option_b": "24",
+        "option_c": "2",
+        "option_d": "8",
+        "correct_answer": "A"
+    },
+    {
+        "id": 236,
+        "subject": "Mathematics",
+        "question_text": "What is the greatest common divisor (GCD) of 24 and 36?",
+        "option_a": "6",
+        "option_b": "12",
+        "option_c": "8",
+        "option_d": "4",
+        "correct_answer": "B"
+    },
+    {
+        "id": 237,
+        "subject": "Mathematics",
+        "question_text": "Evaluate: 5^3",
+        "option_a": "15",
+        "option_b": "125",
+        "option_c": "25",
+        "option_d": "75",
+        "correct_answer": "B"
+    },
+    {
+        "id": 238,
+        "subject": "Mathematics",
+        "question_text": "Express 3/4 as a percentage.",
+        "option_a": "70%",
+        "option_b": "75%",
+        "option_c": "80%",
+        "option_d": "65%",
+        "correct_answer": "B"
+    },
+    {
+        "id": 239,
+        "subject": "Mathematics",
+        "question_text": "What is the sum of angles in a triangle?",
+        "option_a": "90°",
+        "option_b": "180°",
+        "option_c": "270°",
+        "option_d": "360°",
+        "correct_answer": "B"
+    },
+    {
+        "id": 240,
+        "subject": "Mathematics",
+        "question_text": "What is the perimeter of a square with a side length of 7 cm?",
+        "option_a": "14 cm",
+        "option_b": "28 cm",
+        "option_c": "49 cm",
+        "option_d": "21 cm",
+        "correct_answer": "B"
+    },
+    {
+        "id": 241,
+        "subject": "Mathematics",
+        "question_text": "What is the area of a circle with a radius of 7 cm? (Use pi = 22/7)",
+        "option_a": "44 cm^2",
+        "option_b": "154 cm^2",
+        "option_c": "88 cm^2",
+        "option_d": "308 cm^2",
+        "correct_answer": "B"
+    },
+    {
+        "id": 242,
+        "subject": "Mathematics",
+        "question_text": "Simplify the expression: 2(3x + 4) - 5",
+        "option_a": "6x + 3",
+        "option_b": "6x + 8",
+        "option_c": "6x - 1",
+        "option_d": "5x + 3",
+        "correct_answer": "A"
+    },
+    {
+        "id": 243,
+        "subject": "Mathematics",
+        "question_text": "What is the slope of the line passing through points (1, 2) and (3, 6)?",
+        "option_a": "1",
+        "option_b": "2",
+        "option_c": "3",
+        "option_d": "4",
+        "correct_answer": "B"
+    },
+    {
+        "id": 244,
+        "subject": "Mathematics",
+        "question_text": "Factorize completely: x^2 - 9",
+        "option_a": "(x - 3)(x - 3)",
+        "option_b": "(x + 3)(x + 3)",
+        "option_c": "(x - 3)(x + 3)",
+        "option_d": "(x - 9)(x + 1)",
+        "correct_answer": "C"
+    },
+    {
+        "id": 245,
+        "subject": "Mathematics",
+        "question_text": "What is the value of y if 2y + 4 = 3y - 2?",
+        "option_a": "4",
+        "option_b": "6",
+        "option_c": "2",
+        "option_d": "8",
+        "correct_answer": "B"
+    },
+    {
+        "id": 246,
+        "subject": "Mathematics",
+        "question_text": "If a car travels at a constant speed of 60 km/h for 2.5 hours, what distance does it cover?",
+        "option_a": "120 km",
+        "option_b": "150 km",
+        "option_c": "180 km",
+        "option_d": "140 km",
+        "correct_answer": "B"
+    },
+    {
+        "id": 247,
+        "subject": "Mathematics",
+        "question_text": "What is the volume of a rectangular prism with length 5 cm, width 3 cm, and height 4 cm?",
+        "option_a": "12 cm^3",
+        "option_b": "60 cm^3",
+        "option_c": "47 cm^3",
+        "option_d": "20 cm^3",
+        "correct_answer": "B"
+    },
+    {
+        "id": 248,
+        "subject": "Mathematics",
+        "question_text": "What is the median of the following set of numbers: 3, 1, 4, 7, 5?",
+        "option_a": "3",
+        "option_b": "4",
+        "option_c": "5",
+        "option_d": "20",
+        "correct_answer": "B"
+    },
+    {
+        "id": 249,
+        "subject": "Mathematics",
+        "question_text": "What is the mean of the numbers 10, 20, 30, 40, and 50?",
+        "option_a": "25",
+        "option_b": "30",
+        "option_c": "35",
+        "option_d": "40",
+        "correct_answer": "B"
+    },
+    {
+        "id": 250,
+        "subject": "Mathematics",
+        "question_text": "What is the probability of getting an even number when rolling a fair 6-sided die?",
+        "option_a": "1/6",
+        "option_b": "1/3",
+        "option_c": "1/2",
+        "option_d": "2/3",
+        "correct_answer": "C"
+    },
+    {
+        "id": 251,
+        "subject": "Mathematics",
+        "question_text": "Simplify: (x^3)^2",
+        "option_a": "x^5",
+        "option_b": "x^6",
+        "option_c": "x^9",
+        "option_d": "2x^3",
+        "correct_answer": "B"
+    },
+    {
+        "id": 252,
+        "subject": "Mathematics",
+        "question_text": "What is the value of any non-zero number raised to the power of 0?",
+        "option_a": "0",
+        "option_b": "1",
+        "option_c": "The number itself",
+        "option_d": "Undefined",
+        "correct_answer": "B"
+    },
+    {
+        "id": 253,
+        "subject": "Mathematics",
+        "question_text": "Convert 0.35 into a fraction in its simplest form.",
+        "option_a": "35/100",
+        "option_b": "7/20",
+        "option_c": "3/5",
+        "option_d": "7/25",
+        "correct_answer": "B"
+    },
+    {
+        "id": 254,
+        "subject": "Mathematics",
+        "question_text": "What is the sum of interior angles in a regular pentagon?",
+        "option_a": "360°",
+        "option_b": "540°",
+        "option_c": "720°",
+        "option_d": "1080°",
+        "correct_answer": "B"
+    },
+    {
+        "id": 255,
+        "subject": "Mathematics",
+        "question_text": "Find the next term in the arithmetic sequence: 2, 5, 8, 11, ...",
+        "option_a": "13",
+        "option_b": "14",
+        "option_c": "15",
+        "option_d": "16",
+        "correct_answer": "B"
+    },
+    {
+        "id": 256,
+        "subject": "Mathematics",
+        "question_text": "Find the common ratio in the geometric sequence: 3, 6, 12, 24, ...",
+        "option_a": "2",
+        "option_b": "3",
+        "option_c": "4",
+        "option_d": "6",
+        "correct_answer": "A"
+    },
+    {
+        "id": 257,
+        "subject": "Mathematics",
+        "question_text": "What is the y-intercept of the line given by the equation y = 4x - 7?",
+        "option_a": "4",
+        "option_b": "-4",
+        "option_c": "7",
+        "option_d": "-7",
+        "correct_answer": "D"
+    },
+    {
+        "id": 258,
+        "subject": "Mathematics",
+        "question_text": "What is the hypotenuse of a right-angled triangle whose other two sides measure 3 cm and 4 cm?",
+        "option_a": "5 cm",
+        "option_b": "6 cm",
+        "option_c": "7 cm",
+        "option_d": "12 cm",
+        "correct_answer": "A"
+    },
+    {
+        "id": 259,
+        "subject": "Mathematics",
+        "question_text": "What is the value of sin(30°) in a standard right-angled triangle ratio?",
+        "option_a": "1",
+        "option_b": "0.5",
+        "option_c": "0.866",
+        "option_d": "0",
+        "correct_answer": "B"
+    },
+    {
+        "id": 260,
+        "subject": "Mathematics",
+        "question_text": "What is the circumference of a circle with a diameter of 14 cm? (Use pi = 22/7)",
+        "option_a": "22 cm",
+        "option_b": "44 cm",
+        "option_c": "88 cm",
+        "option_d": "154 cm",
+        "correct_answer": "B"
+    },
+    {
+        "id": 261,
+        "subject": "Mathematics",
+        "question_text": "If 5 workers can complete a job in 12 days, how many days will 10 workers take assuming the same rate?",
+        "option_a": "24 days",
+        "option_b": "6 days",
+        "option_c": "10 days",
+        "option_d": "3 days",
+        "correct_answer": "B"
+    },
+    {
+        "id": 262,
+        "subject": "Mathematics",
+        "question_text": "What is the value of log10(1000)?",
+        "option_a": "1",
+        "option_b": "2",
+        "option_c": "3",
+        "option_d": "10",
+        "correct_answer": "C"
+    },
+    {
+        "id": 263,
+        "subject": "Mathematics",
+        "question_text": "Expand the product: (x + 2)(x + 5)",
+        "option_a": "x^2 + 7x + 10",
+        "option_b": "x^2 + 10x + 7",
+        "option_c": "x^2 + 7x + 7",
+        "option_d": "x^2 + 10",
+        "correct_answer": "A"
+    },
+    {
+        "id": 264,
+        "subject": "Mathematics",
+        "question_text": "What is the value of 8^(1/3)?",
+        "option_a": "2",
+        "option_b": "3",
+        "option_c": "4",
+        "option_d": "8",
+        "correct_answer": "A"
+    },
+    {
+        "id": 265,
+        "subject": "Mathematics",
+        "question_text": "What is the total surface area of a cube with a side length of 3 cm?",
+        "option_a": "27 cm^2",
+        "option_b": "36 cm^2",
+        "option_c": "54 cm^2",
+        "option_d": "18 cm^2",
+        "correct_answer": "C"
+    },
+    {
+        "id": 266,
+        "subject": "Mathematics",
+        "question_text": "Find the value of x if 2^(x) = 32.",
+        "option_a": "3",
+        "option_b": "4",
+        "option_c": "5",
+        "option_d": "6",
+        "correct_answer": "C"
+    },
+    {
+        "id": 267,
+        "subject": "Mathematics",
+        "question_text": "What is the supplement of an angle measuring 70°?",
+        "option_a": "20°",
+        "option_b": "110°",
+        "option_c": "290°",
+        "option_d": "90°",
+        "correct_answer": "B"
+    },
+    {
+        "id": 268,
+        "subject": "Mathematics",
+        "question_text": "What is the mode of the dataset: 2, 4, 4, 5, 5, 5, 7, 9?",
+        "option_a": "4",
+        "option_b": "5",
+        "option_c": "4.5",
+        "option_d": "7",
+        "correct_answer": "B"
+    },
+    {
+        "id": 269,
+        "subject": "Mathematics",
+        "question_text": "What is the expression for simple interest given principal (P), rate (R), and time (T)?",
+        "option_a": "P * R * T",
+        "option_b": "(P * R * T) / 100",
+        "option_c": "P(1 + R/100)^T",
+        "option_d": "P + (R * T)",
+        "correct_answer": "B"
+    },
+    {
+        "id": 270,
+        "subject": "Mathematics",
+        "question_text": "What is the diagonal of a rectangle whose length is 6 cm and width is 8 cm?",
+        "option_a": "10 cm",
+        "option_b": "14 cm",
+        "option_c": "48 cm",
+        "option_d": "7 cm",
+        "correct_answer": "A"
+    },
+    {
+        "id": 271,
+        "subject": "Mathematics",
+        "question_text": "Evaluate: -15 + 23 - (-7)",
+        "option_a": "15",
+        "option_b": "35",
+        "option_c": "8",
+        "option_d": "-15",
+        "correct_answer": "A"
+    },
+    {
+        "id": 272,
+        "subject": "Mathematics",
+        "question_text": "What is the standard form (scientific notation) of 450,000?",
+        "option_a": "4.5 x 10^4",
+        "option_b": "4.5 x 10^5",
+        "option_c": "45 x 10^4",
+        "option_d": "0.45 x 10^6",
+        "correct_answer": "B"
+    },
+    {
+        "id": 273,
+        "subject": "Mathematics",
+        "question_text": "What is the sum of the first 10 positive integers?",
+        "option_a": "45",
+        "option_b": "50",
+        "option_c": "55",
+        "option_d": "100",
+        "correct_answer": "C"
+    },
+    {
+        "id": 274,
+        "subject": "Mathematics",
+        "question_text": "What is the value of cos(0°)?",
+        "option_a": "0",
+        "option_b": "1",
+        "option_c": "-1",
+        "option_d": "0.5",
+        "correct_answer": "B"
+    },
+    {
+        "id": 275,
+        "subject": "Mathematics",
+        "question_text": "If the interior angle of a regular polygon is 108°, how many sides does it have?",
+        "option_a": "4",
+        "option_b": "5",
+        "option_c": "6",
+        "option_d": "8",
+        "correct_answer": "B"
+    },
+    {
+        "id": 276,
+        "subject": "Mathematics",
+        "question_text": "What is the value of x in the equation: |x - 3| = 5?",
+        "option_a": "8 only",
+        "option_b": "-2 only",
+        "option_c": "8 or -2",
+        "option_d": "2 or -8",
+        "correct_answer": "C"
+    },
+    {
+        "id": 277,
+        "subject": "Mathematics",
+        "question_text": "What is the volume of a cylinder with radius 3 cm and height 7 cm? (Use pi = 22/7)",
+        "option_a": "66 cm^3",
+        "option_b": "198 cm^3",
+        "option_c": "132 cm^3",
+        "option_d": "396 cm^3",
+        "correct_answer": "B"
+    },
+    {
+        "id": 278,
+        "subject": "Mathematics",
+        "question_text": "What is the product of two negative numbers?",
+        "option_a": "Always negative",
+        "option_b": "Always positive",
+        "option_c": "Zero",
+        "option_d": "Depends on the numbers",
+        "correct_answer": "B"
+    },
+    {
+        "id": 279,
+        "subject": "Mathematics",
+        "question_text": "What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ...?",
+        "option_a": "20",
+        "option_b": "21",
+        "option_c": "25",
+        "option_d": "34",
+        "correct_answer": "B"
+    },
+    {
+        "id": 280,
+        "subject": "Mathematics",
+        "question_text": "Find the value of x if log2(x) = 4.",
+        "option_a": "8",
+        "option_b": "16",
+        "option_c": "32",
+        "option_d": "64",
+        "correct_answer": "B"
+    }
+]

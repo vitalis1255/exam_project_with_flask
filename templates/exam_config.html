@@ -2,7 +2,7 @@
 {% block content %}
 
 <div class="card">
-  <!-- Page for setting Exam -->
+  <!-- Page for selecting subject,no of questions to answer and minutes to answer the questions selected -->
   <h2>Exam Configuration</h2>
   {% if subjects_exist %}
    <form method="POST">
@@ -19,6 +19,8 @@
 
      {{ form.duration_minutes.label }}
      {{ form.duration_minutes() }}
+
+     {{ form.submit(class="btn") }}
    </form>
   {% else %}
    <p>No exams are currently available. Please contact your administrator.</p>

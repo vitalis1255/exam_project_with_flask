@@ -4,7 +4,7 @@
 <!-- Environment a user write Exam -->
 <!-- Store JSON safely inside a script tag -->
  <script type="application/json" id="exam-data">
-  {{exam.questions | tojson | safe }}
+  {{ exam.questions | tojson | safe }}
 </script>
 <div class="card" id="exam-app" data-duration="{{ exam.   duration_seconds }}">
   <div class="exam-info">
@@ -26,6 +26,6 @@
     <button id="submit-btn" class="btn" onclick="submitExam()">Finish & Submit</button>
   </div>
 </div>
-<script src="{{url_for('static', filename='js/exam.js')}}"></script>
+<script src="{{ url_for('static', filename='js/exam.js') }}"></script>
 
 {% endblock %}

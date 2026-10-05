@@ -1,0 +1,166 @@
+[
+    {
+        "username": "Izuchukwu",
+        "subject": "Basic Sciences",
+        "score": 0,
+        "total": 2,
+        "percentage": 0.0,
+        "submitted_at": "2026-10-05 16:56:23",
+        "breakdown": [
+            {
+                "question_text": "What is the chemical formula for pure water?",
+                "options": {
+                    "A": "CO2",
+                    "B": "H2O",
+                    "C": "NaCl",
+                    "D": "NaCl"
+                },
+                "user_choice": null,
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_text": "Which gas makes up the largest percentage of Earth's atmosphere?",
+                "options": {
+                    "A": "Oxygen",
+                    "B": "Carbon dioxide",
+                    "C": "Nitrogen",
+                    "D": "Nitrogen"
+                },
+                "user_choice": null,
+                "correct_answer": "C",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "username": "Izuchukwu",
+        "subject": "Mathematics",
+        "score": 7,
+        "total": 10,
+        "percentage": 70.0,
+        "submitted_at": "2026-10-05 20:44:35",
+        "breakdown": [
+            {
+                "question_text": "Solve for x: 2x + 5 = 15",
+                "options": {
+                    "A": "3",
+                    "B": "5",
+                    "C": "7",
+                    "D": "7"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "What is the area of a circle with radius r = 7cm?(use PI = 22/7)",
+                "options": {
+                    "A": "44 cm\u00b2",
+                    "B": "154 cm\u00b2",
+                    "C": "308 cm\u00b2",
+                    "D": "308 cm\u00b2"
+                },
+                "user_choice": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_text": "Find the simple interest on $1,000 at 5% per annum for 2 years.",
+                "options": {
+                    "A": "50$",
+                    "B": "100$",
+                    "C": "200$",
+                    "D": "200$"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "What is the value of 3^3 + 2^2?",
+                "options": {
+                    "A": "13",
+                    "B": "25",
+                    "C": "31",
+                    "D": "31"
+                },
+                "user_choice": "C",
+                "correct_answer": "C",
+                "is_correct": true
+            },
+            {
+                "question_text": "Express 0.045 as a percentage.",
+                "options": {
+                    "A": "0.45%",
+                    "B": "4.5%",
+                    "C": "45%",
+                    "D": "45%"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "If the angles of a triangle are in the ratio $1:2:3$, what is the size of the largest angle?",
+                "options": {
+                    "A": "30\u00b0",
+                    "B": "60\u00b0",
+                    "C": "90\u00b0",
+                    "D": "90\u00b0"
+                },
+                "user_choice": "B",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_text": "Simplify the fraction:2/3 + 1/4",
+                "options": {
+                    "A": "3/7",
+                    "B": "11/12",
+                    "C": "3/12",
+                    "D": "3/12"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "Find the median of the following dataset: 4, 1, 7, 3, 9",
+                "options": {
+                    "A": "3",
+                    "B": "4",
+                    "C": "7",
+                    "D": "7"
+                },
+                "user_choice": "C",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_text": "What is the square root of 144?",
+                "options": {
+                    "A": "10",
+                    "B": "11",
+                    "C": "12",
+                    "D": "12"
+                },
+                "user_choice": "C",
+                "correct_answer": "C",
+                "is_correct": true
+            },
+            {
+                "question_text": "Expand the algebraic expression: (x + 3)(x - 3)",
+                "options": {
+                    "A": "x^2 + 9",
+                    "B": "x^2 -9",
+                    "C": "x^2-6x-9",
+                    "D": "x^2-6x-9"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            }
+        ]
+    }
+]

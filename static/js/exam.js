@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
     optionList.innerHTML = "";
 
     const opts = {
-      A: q.option_a, B: q.option_b, C: option_c, D: option_d
+      A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d
     };
     for (const [key, val] of Object.entries(opts)) {
       const isChecked = userAnswers[q.id] === key ? "checked" : "";
@@ -83,4 +83,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   };
+
+  renderQuestion()
 });
