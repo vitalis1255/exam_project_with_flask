@@ -162,5 +162,307 @@
                 "is_correct": true
             }
         ]
+    },
+    {
+        "username": "Izuchukwu",
+        "subject": "English Language",
+        "score": 8,
+        "total": 10,
+        "percentage": 80.0,
+        "submitted_at": "2026-10-06 11:06:37",
+        "breakdown": [
+            {
+                "question_text": "Choose the word that is nearest in meaning to Eloquent:",
+                "options": {
+                    "A": "Rude",
+                    "B": "Fluent",
+                    "C": "Silent",
+                    "D": "Silent"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "Identify the correct grammatical form: Neither of the boys _____ present.",
+                "options": {
+                    "A": "are",
+                    "B": "were",
+                    "C": "is",
+                    "D": "is"
+                },
+                "user_choice": "B",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_text": "What figure of speech is used in the sentence: \"The wind whispered through the trees\"?",
+                "options": {
+                    "A": "Simile",
+                    "B": "Personification",
+                    "C": "Metaphor",
+                    "D": "Metaphor"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "Choose the antonym for the word Abundant:",
+                "options": {
+                    "A": "Plentiful",
+                    "B": "Scarce",
+                    "C": "Generous",
+                    "D": "Generous"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "Choose the correct spelling:",
+                "options": {
+                    "A": "Accomodation",
+                    "B": "Acommodatiton",
+                    "C": "Accommodation",
+                    "D": "Accommodation"
+                },
+                "user_choice": "C",
+                "correct_answer": "C",
+                "is_correct": true
+            },
+            {
+                "question_text": "Complete the common idiom: \"A blessing in _____\"",
+                "options": {
+                    "A": "disguise",
+                    "B": "secret",
+                    "C": "heaven",
+                    "D": "heaven"
+                },
+                "user_choice": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_text": "Which of the following words is a collective noun?",
+                "options": {
+                    "A": "Water",
+                    "B": "Pride",
+                    "C": "John",
+                    "D": "John"
+                },
+                "user_choice": "C",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_text": "Select the correct passive voice for: \"She ate an apple.\"",
+                "options": {
+                    "A": "An apple is eaten by her.",
+                    "B": "An apple was eaten by her.",
+                    "C": "An apple has been eaten.",
+                    "D": "An apple has been eaten."
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "Identify the adverb in the sentence: \"He walked quickly down the street.\"",
+                "options": {
+                    "A": "He",
+                    "B": "Walked",
+                    "C": "Quickly",
+                    "D": "Quickly"
+                },
+                "user_choice": "C",
+                "correct_answer": "C",
+                "is_correct": true
+            },
+            {
+                "question_text": "Choose the correct preposition: She is proficient _____ mathematics.",
+                "options": {
+                    "A": "in",
+                    "B": "on",
+                    "C": "at",
+                    "D": "at"
+                },
+                "user_choice": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            }
+        ]
+    },
+    {
+        "username": "Izuchukwu",
+        "subject": "Basic Sciences",
+        "score": 1,
+        "total": 3,
+        "percentage": 33.3,
+        "submitted_at": "2026-10-07 14:22:49",
+        "breakdown": [
+            {
+                "question_text": "What is the chemical formula for pure water?",
+                "options": {
+                    "A": "CO2",
+                    "B": "H2O",
+                    "C": "NaCl",
+                    "D": "NaCl"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "Which gas makes up the largest percentage of Earth's atmosphere?",
+                "options": {
+                    "A": "Oxygen",
+                    "B": "Carbon dioxide",
+                    "C": "Nitrogen",
+                    "D": "Nitrogen"
+                },
+                "user_choice": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_text": "Which organelle in plant cells is responsible for carrying out photosynthesis?",
+                "options": {
+                    "A": "Mitochondria",
+                    "B": "Ribosome",
+                    "C": "Chloroplast",
+                    "D": "Chloroplast"
+                },
+                "user_choice": "D",
+                "correct_answer": "C",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "username": "chidimma",
+        "subject": "Biology",
+        "score": 2,
+        "total": 2,
+        "percentage": 100.0,
+        "submitted_at": "2026-10-07 15:08:25",
+        "breakdown": [
+            {
+                "question_text": "What is known as the powerhouse of the cell?",
+                "options": {
+                    "A": "Nucleus",
+                    "B": "Mitochondria",
+                    "C": "Ribosome",
+                    "D": "Ribosome"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "Which blood cells are primarily responsible for fighting infections?",
+                "options": {
+                    "A": "Red blood cells",
+                    "B": "Platelets",
+                    "C": "White blood cells",
+                    "D": "White blood cells"
+                },
+                "user_choice": "C",
+                "correct_answer": "C",
+                "is_correct": true
+            }
+        ]
+    },
+    {
+        "username": "chidimma",
+        "subject": "Igbo",
+        "score": 0,
+        "total": 3,
+        "percentage": 0.0,
+        "submitted_at": "2026-10-07 17:25:25",
+        "breakdown": [
+            {
+                "question_text": "Kedu aha mkp\u1ee5r\u1ee5edemede ole d\u1ecb n'as\u1ee5s\u1ee5 Igbo (Vawouels)?",
+                "options": {
+                    "A": "Mkp\u1ee5r\u1ee5edemede 8",
+                    "B": "Mkp\u1ee5r\u1ee5edemede 6",
+                    "C": "Mkp\u1ee5r\u1ee5edemede 36",
+                    "D": "Mkp\u1ee5r\u1ee5edemede 36"
+                },
+                "user_choice": "C",
+                "correct_answer": "A",
+                "is_correct": false
+            },
+            {
+                "question_text": "G\u1ecbn\u1ecb b\u1ee5 aha nwanne nne g\u1ecb nke nwoke n'as\u1ee5s\u1ee5 Igbo?",
+                "options": {
+                    "A": "Deede / Okenye",
+                    "B": "Nwanne nna",
+                    "C": "Ihe",
+                    "D": "Ihe"
+                },
+                "user_choice": "B",
+                "correct_answer": "A",
+                "is_correct": false
+            },
+            {
+                "question_text": "Kedu otu esi s\u1ecb \"Good morning\" n'as\u1ee5s\u1ee5 Igbo?",
+                "options": {
+                    "A": "Ndeewo",
+                    "B": "\u1ee4t\u1ee5t\u1ee5 \u1ecdma",
+                    "C": "Ehihie \u1ecdma",
+                    "D": "Ehihie \u1ecdma"
+                },
+                "user_choice": "D",
+                "correct_answer": "B",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "username": "Izuchukwu",
+        "subject": "Further Mathematics",
+        "score": 3,
+        "total": 3,
+        "percentage": 100.0,
+        "submitted_at": "2026-10-08 12:30:22",
+        "breakdown": [
+            {
+                "question_text": "What is the derivative of y = x^3 with respect to x?",
+                "options": {
+                    "A": "3x^2",
+                    "B": "x^2",
+                    "C": "3x",
+                    "D": "3x"
+                },
+                "user_choice": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_text": "What is the value of i^2 where i is the imaginary unit?",
+                "options": {
+                    "A": "1",
+                    "B": "-1",
+                    "C": "i",
+                    "D": "i"
+                },
+                "user_choice": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_text": "Find the determinant of the 2x2 matrix: [[2, 3], [1, 4]]",
+                "options": {
+                    "A": "5",
+                    "B": "11",
+                    "C": "8",
+                    "D": "8"
+                },
+                "user_choice": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            }
+        ]
     }
 ]

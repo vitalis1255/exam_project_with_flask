@@ -299,7 +299,6 @@
         "option_d": "Positron",
         "correct_answer": "C"
     },
-
     {
         "id": 31,
         "subject": "Biology",
@@ -903,17 +902,17 @@
     {
         "id": 91,
         "subject": "Igbo",
-        "question_text": "Kedu aha mkpụrụedemede ole dị n'asụsụ Igbo (Vawouels)?",
-        "option_a": "Mkpụrụedemede 8",
-        "option_b": "Mkpụrụedemede 6",
-        "option_c": "Mkpụrụedemede 36",
-        "option_d": "Mkpụrụedemede 28",
+        "question_text": "Kedu aha mkp\u1ee5r\u1ee5edemede ole d\u1ecb n'as\u1ee5s\u1ee5 Igbo (Vawouels)?",
+        "option_a": "Mkp\u1ee5r\u1ee5edemede 8",
+        "option_b": "Mkp\u1ee5r\u1ee5edemede 6",
+        "option_c": "Mkp\u1ee5r\u1ee5edemede 36",
+        "option_d": "Mkp\u1ee5r\u1ee5edemede 28",
         "correct_answer": "A"
     },
     {
         "id": 92,
         "subject": "Igbo",
-        "question_text": "Gịnị bụ aha nwanne nne gị nke nwoke n'asụsụ Igbo?",
+        "question_text": "G\u1ecbn\u1ecb b\u1ee5 aha nwanne nne g\u1ecb nke nwoke n'as\u1ee5s\u1ee5 Igbo?",
         "option_a": "Deede / Okenye",
         "option_b": "Nwanne nna",
         "option_c": "Ihe",
@@ -923,39 +922,39 @@
     {
         "id": 93,
         "subject": "Igbo",
-        "question_text": "Kedu otu esi sị \"Good morning\" n'asụsụ Igbo?",
+        "question_text": "Kedu otu esi s\u1ecb \"Good morning\" n'as\u1ee5s\u1ee5 Igbo?",
         "option_a": "Ndeewo",
-        "option_b": "Ụtụtụ ọma",
-        "option_c": "Ehihie ọma",
+        "option_b": "\u1ee4t\u1ee5t\u1ee5 \u1ecdma",
+        "option_c": "Ehihie \u1ecdma",
         "option_d": "Kedu",
         "correct_answer": "B"
     },
     {
         "id": 94,
         "subject": "Igbo",
-        "question_text": "Kedu ngalaba ole mkpụrụedemede Igbo (Consonants) nwere?",
-        "option_a": "Mkpụrụedemede iri abụọ na asatọ (28)",
-        "option_b": "Mkpụrụedemede iri na ise (15)",
-        "option_c": "Mkpụrụedemede iri atọ na isii (36)",
-        "option_d": "Mkpụrụedemede iri na abụọ (12)",
+        "question_text": "Kedu ngalaba ole mkp\u1ee5r\u1ee5edemede Igbo (Consonants) nwere?",
+        "option_a": "Mkp\u1ee5r\u1ee5edemede iri ab\u1ee5\u1ecd na asat\u1ecd (28)",
+        "option_b": "Mkp\u1ee5r\u1ee5edemede iri na ise (15)",
+        "option_c": "Mkp\u1ee5r\u1ee5edemede iri at\u1ecd na isii (36)",
+        "option_d": "Mkp\u1ee5r\u1ee5edemede iri na ab\u1ee5\u1ecd (12)",
         "correct_answer": "A"
     },
     {
         "id": 95,
         "subject": "Igbo",
-        "question_text": "Kedu ihe bụ nsụgharị okwu \"Water\" n'asụsụ Igbo?",
+        "question_text": "Kedu ihe b\u1ee5 ns\u1ee5ghar\u1ecb okwu \"Water\" n'as\u1ee5s\u1ee5 Igbo?",
         "option_a": "Nri",
         "option_b": "Mmiri",
-        "option_c": "Anụ",
-        "option_d": "Mmanụ",
+        "option_c": "An\u1ee5",
+        "option_d": "Mman\u1ee5",
         "correct_answer": "B"
     },
     {
         "id": 96,
         "subject": "Igbo",
-        "question_text": "Gịnị bụ aha nri omenala a ma ama e ji ji akwadebe n'ala Igbo?",
+        "question_text": "G\u1ecbn\u1ecb b\u1ee5 aha nri omenala a ma ama e ji ji akwadebe n'ala Igbo?",
         "option_a": "Eba",
-        "option_b": "Ji agwụ / Ọnịicha",
+        "option_b": "Ji agw\u1ee5 / \u1eccn\u1ecbicha",
         "option_c": "Fufu",
         "option_d": "Abacha",
         "correct_answer": "D"
@@ -963,7 +962,7 @@
     {
         "id": 97,
         "subject": "Igbo",
-        "question_text": "Gịnị ka \"Nna anyị nọ n'eluigwe\" pụtara n'ekpere?",
+        "question_text": "G\u1ecbn\u1ecb ka \"Nna any\u1ecb n\u1ecd n'eluigwe\" p\u1ee5tara n'ekpere?",
         "option_a": "Our Father who art in heaven",
         "option_b": "Hail Mary",
         "option_c": "Glory be to the Father",
@@ -973,7 +972,7 @@
     {
         "id": 98,
         "subject": "Igbo",
-        "question_text": "Kedu aha steeti dị na Naijiria nke ndị Igbo bi na ya karịsịa?",
+        "question_text": "Kedu aha steeti d\u1ecb na Naijiria nke nd\u1ecb Igbo bi na ya kar\u1ecbs\u1ecba?",
         "option_a": "Kano Steeti",
         "option_b": "Enugwu Steeti",
         "option_c": "Lagos Steeti",
@@ -983,17 +982,17 @@
     {
         "id": 99,
         "subject": "Igbo",
-        "question_text": "Kedu otu esi agụ nọmba \"10\" n'asụsụ Igbo?",
-        "option_a": "Asatọ",
+        "question_text": "Kedu otu esi ag\u1ee5 n\u1ecdmba \"10\" n'as\u1ee5s\u1ee5 Igbo?",
+        "option_a": "Asat\u1ecd",
         "option_b": "Iri",
-        "option_c": "Iri na abụọ",
+        "option_c": "Iri na ab\u1ee5\u1ecd",
         "option_d": "Isegfu",
         "correct_answer": "B"
     },
     {
         "id": 100,
         "subject": "Igbo",
-        "question_text": "Kedu ihe bụ isi ihe e ji ama onye Igbo n'omenala?",
+        "question_text": "Kedu ihe b\u1ee5 isi ihe e ji ama onye Igbo n'omenala?",
         "option_a": "Oji (Kola nut)",
         "option_b": "Akpa akwa",
         "option_c": "Mkpisi",
@@ -1003,7 +1002,7 @@
     {
         "id": 101,
         "subject": "Igbo",
-        "question_text": "Gịnị ka okwu a \"E e\" ma ọ bụ \"Mba\" pụtara?",
+        "question_text": "G\u1ecbn\u1ecb ka okwu a \"E e\" ma \u1ecd b\u1ee5 \"Mba\" p\u1ee5tara?",
         "option_a": "Yes",
         "option_b": "No",
         "option_c": "Maybe",
@@ -1013,7 +1012,7 @@
     {
         "id": 102,
         "subject": "Igbo",
-        "question_text": "Kedu aha nwa nwoke ma ọ bụ nwa nwanyị amuru n'ezinaụlọ?",
+        "question_text": "Kedu aha nwa nwoke ma \u1ecd b\u1ee5 nwa nwany\u1ecb amuru n'ezina\u1ee5l\u1ecd?",
         "option_a": "Nwa",
         "option_b": "Enyi",
         "option_c": "Onye agbata obi",
@@ -1023,9 +1022,9 @@
     {
         "id": 103,
         "subject": "Igbo",
-        "question_text": "Kedu otu esi sị \"Thank you\" n'asụsụ Igbo?",
+        "question_text": "Kedu otu esi s\u1ecb \"Thank you\" n'as\u1ee5s\u1ee5 Igbo?",
         "option_a": "Biko",
-        "option_b": "Daalụ",
+        "option_b": "Daal\u1ee5",
         "option_c": "Kedu",
         "option_d": "Ndo",
         "correct_answer": "B"
@@ -1033,7 +1032,7 @@
     {
         "id": 104,
         "subject": "Igbo",
-        "question_text": "Gịnị ka \"Ehihie ọma\" pụtara?",
+        "question_text": "G\u1ecbn\u1ecb ka \"Ehihie \u1ecdma\" p\u1ee5tara?",
         "option_a": "Good morning",
         "option_b": "Good afternoon",
         "option_c": "Good evening",
@@ -1043,17 +1042,17 @@
     {
         "id": 105,
         "subject": "Igbo",
-        "question_text": "Kedu aha nnụnụ a ma ama na-agba egwu n'oge mmemme ndị Igbo?",
+        "question_text": "Kedu aha nn\u1ee5n\u1ee5 a ma ama na-agba egwu n'oge mmemme nd\u1ecb Igbo?",
         "option_a": "Ugo",
         "option_b": "Icheoku",
         "option_c": "Mgbada",
-        "option_d": "Nkịta",
+        "option_d": "Nk\u1ecbta",
         "correct_answer": "A"
     },
     {
         "id": 106,
         "subject": "Igbo",
-        "question_text": "Gịnị ka \"Aha m bụ...\" pụtara n'asụsụ bekee?",
+        "question_text": "G\u1ecbn\u1ecb ka \"Aha m b\u1ee5...\" p\u1ee5tara n'as\u1ee5s\u1ee5 bekee?",
         "option_a": "My age is...",
         "option_b": "My name is...",
         "option_c": "I live in...",
@@ -1063,7 +1062,7 @@
     {
         "id": 107,
         "subject": "Igbo",
-        "question_text": "Kedu otu esi sị \"Please\" n'asụsụ Igbo?",
+        "question_text": "Kedu otu esi s\u1ecb \"Please\" n'as\u1ee5s\u1ee5 Igbo?",
         "option_a": "Biko",
         "option_b": "Kedu",
         "option_c": "Ndeewo",
@@ -1073,19 +1072,19 @@
     {
         "id": 108,
         "subject": "Igbo",
-        "question_text": "Kedu ebe a na-azụ ma na-ere ahịa n'ala Igbo n'oge ochie?",
-        "option_a": "Ahịa",
-        "option_b": "Ụlọ akwụkwọ",
-        "option_c": "Ọgbọ egwuregwu",
-        "option_d": "Ụlọ ụka",
+        "question_text": "Kedu ebe a na-az\u1ee5 ma na-ere ah\u1ecba n'ala Igbo n'oge ochie?",
+        "option_a": "Ah\u1ecba",
+        "option_b": "\u1ee4l\u1ecd akw\u1ee5kw\u1ecd",
+        "option_c": "\u1eccgb\u1ecd egwuregwu",
+        "option_d": "\u1ee4l\u1ecd \u1ee5ka",
         "correct_answer": "A"
     },
     {
         "id": 109,
         "subject": "Igbo",
-        "question_text": "Kedu afọ ole ka onye nwere puku mmadụ iri n'asụsụ Igbo pụtara? (Okwu nkịtị)",
+        "question_text": "Kedu af\u1ecd ole ka onye nwere puku mmad\u1ee5 iri n'as\u1ee5s\u1ee5 Igbo p\u1ee5tara? (Okwu nk\u1ecbt\u1ecb)",
         "option_a": "Aha puku",
-        "option_b": "Puku mmadụ",
+        "option_b": "Puku mmad\u1ee5",
         "option_c": "Nnu",
         "option_d": "Iri",
         "correct_answer": "C"
@@ -1093,7 +1092,7 @@
     {
         "id": 110,
         "subject": "Igbo",
-        "question_text": "Gịnị ka nkebiokwu a pụtara: \"Onye aghụghọ, onye aghụghọ gbara ya gburugburu\"?",
+        "question_text": "G\u1ecbn\u1ecb ka nkebiokwu a p\u1ee5tara: \"Onye agh\u1ee5gh\u1ecd, onye agh\u1ee5gh\u1ecd gbara ya gburugburu\"?",
         "option_a": "Deceit catches up with the deceiver",
         "option_b": "Hard work pays",
         "option_c": "Unity is strength",
@@ -1654,10 +1653,10 @@
         "id": 166,
         "subject": "Basic Sciences",
         "question_text": "At what temperature does pure water freeze under normal atmospheric pressure?",
-        "option_a": "0°C",
-        "option_b": "32°C",
-        "option_c": "100°C",
-        "option_d": "-10°C",
+        "option_a": "0\u00b0C",
+        "option_b": "32\u00b0C",
+        "option_c": "100\u00b0C",
+        "option_d": "-10\u00b0C",
         "correct_answer": "A"
     },
     {
@@ -1813,7 +1812,7 @@
     {
         "id": 182,
         "subject": "Chemistry",
-        "question_text": "What is the pH value of a pure, neutral water solution at 25°C?",
+        "question_text": "What is the pH value of a pure, neutral water solution at 25\u00b0C?",
         "option_a": "0",
         "option_b": "5",
         "option_c": "7",
@@ -2186,7 +2185,7 @@
         "question_text": "What is the common chemical formula for rust on iron?",
         "option_a": "FeO",
         "option_b": "Fe3O4",
-        "option_c": "Fe2O3 · nH2O",
+        "option_c": "Fe2O3 \u00b7 nH2O",
         "option_d": "FeS",
         "correct_answer": "C"
     },
@@ -2384,10 +2383,10 @@
         "id": 239,
         "subject": "Mathematics",
         "question_text": "What is the sum of angles in a triangle?",
-        "option_a": "90°",
-        "option_b": "180°",
-        "option_c": "270°",
-        "option_d": "360°",
+        "option_a": "90\u00b0",
+        "option_b": "180\u00b0",
+        "option_c": "270\u00b0",
+        "option_d": "360\u00b0",
         "correct_answer": "B"
     },
     {
@@ -2534,10 +2533,10 @@
         "id": 254,
         "subject": "Mathematics",
         "question_text": "What is the sum of interior angles in a regular pentagon?",
-        "option_a": "360°",
-        "option_b": "540°",
-        "option_c": "720°",
-        "option_d": "1080°",
+        "option_a": "360\u00b0",
+        "option_b": "540\u00b0",
+        "option_c": "720\u00b0",
+        "option_d": "1080\u00b0",
         "correct_answer": "B"
     },
     {
@@ -2583,7 +2582,7 @@
     {
         "id": 259,
         "subject": "Mathematics",
-        "question_text": "What is the value of sin(30°) in a standard right-angled triangle ratio?",
+        "question_text": "What is the value of sin(30\u00b0) in a standard right-angled triangle ratio?",
         "option_a": "1",
         "option_b": "0.5",
         "option_c": "0.866",
@@ -2663,11 +2662,11 @@
     {
         "id": 267,
         "subject": "Mathematics",
-        "question_text": "What is the supplement of an angle measuring 70°?",
-        "option_a": "20°",
-        "option_b": "110°",
-        "option_c": "290°",
-        "option_d": "90°",
+        "question_text": "What is the supplement of an angle measuring 70\u00b0?",
+        "option_a": "20\u00b0",
+        "option_b": "110\u00b0",
+        "option_c": "290\u00b0",
+        "option_d": "90\u00b0",
         "correct_answer": "B"
     },
     {
@@ -2733,7 +2732,7 @@
     {
         "id": 274,
         "subject": "Mathematics",
-        "question_text": "What is the value of cos(0°)?",
+        "question_text": "What is the value of cos(0\u00b0)?",
         "option_a": "0",
         "option_b": "1",
         "option_c": "-1",
@@ -2743,7 +2742,7 @@
     {
         "id": 275,
         "subject": "Mathematics",
-        "question_text": "If the interior angle of a regular polygon is 108°, how many sides does it have?",
+        "question_text": "If the interior angle of a regular polygon is 108\u00b0, how many sides does it have?",
         "option_a": "4",
         "option_b": "5",
         "option_c": "6",
@@ -2799,5 +2798,15 @@
         "option_c": "32",
         "option_d": "64",
         "correct_answer": "B"
+    },
+    {
+        "id": 281,
+        "subject": "Mathematics",
+        "question_text": "if a = 4, b = 8, c = a + b, find c",
+        "option_a": "9",
+        "option_b": "7",
+        "option_c": "12",
+        "option_d": "89",
+        "correct_answer": "C"
     }
 ]

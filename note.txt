@@ -53,3 +53,27 @@ score / total – calculates the fraction of the total score obtained.
 round(..., 1) – rounds the percentage to one decimal place.
 
 if total > 0 else 0 – prevents division by zero when total is zero.
+
+render_template goes with name.html while url_for goes with name of the function, that is link such as <a href="url_for('exam_config')">name of link goes here</a>
+
+briefly explain this line of code let timeLeft = parseInt(appElement.getAttribute("data-duration"), 10); what is 10 doing there?
+let timeLeft = parseInt(appElement.getAttribute("data-duration"), 10);
+
+The 10 tells parseInt() to interpret the number as a base-10 (decimal) number.
+
+appElement.getAttribute("data-duration") → gets the value as a string, e.g. "120".
+parseInt(..., 10) → converts "120" to the number 120.
+10 → specifies the decimal number system.
+
+@app.route("/")
+def home():
+    name = "Izuchukwu"
+    return render_template("index.html", name=name)
+
+Here:
+
+name=name
+
+means:
+
+HTML variable name = Python variable namesave files

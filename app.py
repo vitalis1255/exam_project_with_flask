@@ -38,7 +38,7 @@ def init_db():
       json.dump([], f, indent=4)
 
 
-init_db()
+init_db()#function call
 
 
 
@@ -64,6 +64,7 @@ def login():
     role = form.role.data
 
     users = load_json(USERS_FILE)
+
     user = next((u for u in users if u['username'].lower() == username.lower() and u['role'] == role), None)
 
     if not user:
@@ -108,6 +109,8 @@ def admin_dashboard():
 
   if user_form.validate_on_submit() and 'submit_user' in request.form:
     new_username = user_form.username.data.strip()
+    
+    #check if username exist
     if any(u['username'].lower() == new_username.lower() for u in users):
       flash("Username already exists!")
     else:
@@ -272,4 +275,4 @@ def exam_result():
 
 
 if __name__ == "__main__":
-  app.run(debug=True)
+  app.run(host="127.0.0.1",port=5000,debug=True)

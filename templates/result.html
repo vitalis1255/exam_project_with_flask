@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% block title %}CBT Student Result{% endblock %}
 {% block content %}
 
 <div class="card">
@@ -17,7 +18,12 @@
     <div style="background: #0f172a; border: 1px solid #334155; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
       <p><strong>Q: {{ item.question_text }}</strong></p>
       <p style="margin: 0.25rem 0; color: {{ '#22c55e' if item.is_correct else '#ef4444' }};">
-        Your Answer: <strong>{{item.user_choice or 'None'}}</strong> {% if item.is_correct %}(Correct) {% else %} (Incorrect) {% endif %}
+        Your Answer: <strong>{{item.user_choice or 'None'}}</strong> 
+        {% if item.is_correct %}
+          (Correct) 
+        {% else %} 
+          (Incorrect) 
+        {% endif %}
       </p>
       {% if not item.is_correct %}
       <p style="margin: 0.25rem 0; color: #38bdf8;">Correct Answer: <strong>{{ item.correct_answer }}</strong></p>

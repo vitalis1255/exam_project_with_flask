@@ -30,15 +30,23 @@ document.addEventListener("DOMContentLoaded", () => {
   function renderQuestion() {
     if (questions.length === 0) return;
     const q = questions[currentIndex];
+
+    //Display 1 0f total questions
     document.getElementById("q-counter").innerText = `Question ${currentIndex + 1} of ${questions.length}`;
+
+    //Display questions
     document.getElementById("q-text").innerText = q.question_text;
 
+    //Display options
     const optionList = document.getElementById("options-list");
     optionList.innerHTML = "";
 
+    //Get options for each question
     const opts = {
       A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d
     };
+
+    
     for (const [key, val] of Object.entries(opts)) {
       const isChecked = userAnswers[q.id] === key ? "checked" : "";
       optionList.innerHTML += `

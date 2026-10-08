@@ -16,7 +16,7 @@ class LoginForm(FlaskForm):
   """
   username = StringField("username/Identifier", validators=[DataRequired(message="Username is required."),length(min=2, max=30, message="Must be between 2 and 30 characters.")])
   role = SelectField("Portal Role", choices=[
-    ("student","Student/Examinee"),
+    ("student","Student/Examinee"),#what shows is Student/Examinee
     ("admin","Administrator")
   ], validators=[DataRequired()])
   submit = SubmitField("Sign In")
