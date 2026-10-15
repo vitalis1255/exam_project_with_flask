@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
   <body>
     <!-- Logout User -->
+    {# codes below is done using jina syntax #}
     {% if session.get('username') %}<!-- get the username in session if it exists -->
     <div class="navbar">
       <h1>SmartCBT Portal</h1>

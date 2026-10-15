@@ -77,3 +77,6 @@ name=name
 means:
 
 HTML variable name = Python variable namesave files
+
+how to write comment in HTML template
+{# This is a Jinja comment #}

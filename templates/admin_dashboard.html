@@ -20,9 +20,9 @@
 
      <button type="submit" name="submit_user" class="btn">Create User</button>
     </form>
- </div>
+</div>
 
- <div class="card">
+<div class="card">
   <h3>Add Examination Question</h3>
   <form method="POST">
     <!-- Hide form for subject to avoid kacking -->
@@ -51,12 +51,12 @@
 
     <button type="submit" name="submit_question" class="btn">Save Question</button>
   </form>
- </div>
+</div>
 
- <div class="card">
+<div class="card">
   <h3>System Overview</h3>
   <p><strong>Total Registered Users: </strong>{{ users|length }}</p>
   <p><strong>Total Questions in Bank: </strong>{{ questions|length }}</p>
- </div>
+</div>
 
 {% endblock %}
